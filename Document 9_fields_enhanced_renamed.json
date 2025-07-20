@@ -1,0 +1,952 @@
+[
+  {
+    "field_name": "client_name_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      108.0,
+      164.52001953125,
+      576.239990234375,
+      176.03997802734375
+    ],
+    "context_left": "Client:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Client 1"
+  },
+  {
+    "field_name": "client_name_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      108.0,
+      177.0,
+      576.239990234375,
+      188.4000244140625
+    ],
+    "context_left": "Client:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Email /Fax:",
+    "original_name": "Client 2"
+  },
+  {
+    "field_name": "client_address_street",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      123.95999908447266,
+      189.3599853515625,
+      576.239990234375,
+      200.4000244140625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Email /Fax:",
+    "original_name": "Address"
+  },
+  {
+    "field_name": "client_address_city_state_zip",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      155.39999389648438,
+      201.3599853515625,
+      576.239990234375,
+      212.760009765625
+    ],
+    "context_left": "Address:  Phone:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Email /Fax:",
+    "original_name": "City State Zip"
+  },
+  {
+    "field_name": "client_phone_number",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      115.31999969482422,
+      213.719970703125,
+      576.239990234375,
+      225.1199951171875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Email /Fax:",
+    "original_name": "Phone"
+  },
+  {
+    "field_name": "client_email",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      132.36000061035156,
+      226.08001708984375,
+      327.1199951171875,
+      237.5999755859375
+    ],
+    "context_left": "Phone:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "EmailFax"
+  },
+  {
+    "field_name": "client_fax",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      380.8800048828125,
+      226.08001708984375,
+      576.239990234375,
+      237.5999755859375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Email Fax"
+  },
+  {
+    "field_name": "broker_name_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      108.0,
+      245.6400146484375,
+      576.239990234375,
+      257.15997314453125
+    ],
+    "context_left": "Broker:",
+    "context_right": "",
+    "context_above": "Email /Fax:",
+    "context_below": "",
+    "original_name": "Broker 1"
+  },
+  {
+    "field_name": "broker_name_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      108.0,
+      258.239990234375,
+      576.239990234375,
+      269.760009765625
+    ],
+    "context_left": "Broker:",
+    "context_right": "",
+    "context_above": "Email /Fax:",
+    "context_below": "",
+    "original_name": "Broker 2"
+  },
+  {
+    "field_name": "broker_address_street",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      124.08000183105469,
+      270.96002197265625,
+      576.239990234375,
+      282.4800109863281
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Email /Fax:",
+    "context_below": "Email/Fax:",
+    "original_name": "Address_2"
+  },
+  {
+    "field_name": "broker_address_city_state_zip",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      156.24000549316406,
+      283.55999755859375,
+      576.239990234375,
+      295.0799865722656
+    ],
+    "context_left": "Address:   Phone:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Email/Fax:  Client grants Broker the exclusive right to act as Client’s real estate agent for the",
+    "original_name": "City State Zip_2"
+  },
+  {
+    "field_name": "broker_phone_number",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      115.55999755859375,
+      296.2799987792969,
+      576.239990234375,
+      307.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Email/Fax:  Client grants Broker the exclusive right to act as Client’s real estate agent for the",
+    "original_name": "Phone_2"
+  },
+  {
+    "field_name": "broker_email",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      129.36000061035156,
+      308.8800048828125,
+      324.0,
+      320.3999938964844
+    ],
+    "context_left": "Phone:",
+    "context_right": "Email/Fax:",
+    "context_above": "",
+    "context_below": "purpose of acquiring property in the market area.",
+    "original_name": "EmailFax_2"
+  },
+  {
+    "field_name": "broker_fax",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      376.0799865722656,
+      308.8800048828125,
+      576.239990234375,
+      320.3999938964844
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "EmailFax_3"
+  },
+  {
+    "field_name": "property_address_line_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      380.1600036621094,
+      443.3999938964844,
+      576.239990234375,
+      454.9200134277344
+    ],
+    "context_left": "): property address, subdivision, city, county, zip code, etc.",
+    "context_right": "",
+    "context_above": "insert “Closing” in a lease transaction means the date a landlord and",
+    "context_below": "",
+    "original_name": "property address subdivision city county zip code etc 1"
+  },
+  {
+    "field_name": "property_address_line_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      95.16000366210938,
+      456.0,
+      576.239990234375,
+      467.5199890136719
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "): means that area in the State of Texas specified as follows (for example,  “Closing” in a lease transaction means the date a landlord and",
+    "context_below": "means any interest in real estate including but not limited to properties listed in a",
+    "original_name": "property address subdivision city county zip code etc 2"
+  },
+  {
+    "field_name": "market_area_description_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      95.16000366210938,
+      468.6000061035156,
+      576.239990234375,
+      480.1199951171875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "): means that area in the State of Texas specified as follows (for example,",
+    "context_below": "means any interest in real estate including but not limited to properties listed in a multiple listing service or other listing services, properties for sale by owners, and properties for",
+    "original_name": "undefined"
+  },
+  {
+    "field_name": "D Property means any interest in real estate including but not limited to properties listed in a",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      95.16000366210938,
+      481.32000732421875,
+      576.1199951171875,
+      492.8399963378906
+    ],
+    "context_left": "D.",
+    "context_right": "",
+    "context_above": "): means that area in the State of Texas specified as follows (for example,",
+    "context_below": "means any interest in real estate including but not limited to properties listed in a multiple listing service or other listing services, properties for sale by owners, and properties for"
+  },
+  {
+    "field_name": "agreement_start_date",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      232.55999755859375,
+      542.1600341796875,
+      324.1199951171875,
+      553.6799926757812
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "multiple listing service or other listing services, properties for sale by owners, and properties for means any interest in real estate including but not limited to properties listed in a",
+    "context_below": "in the market area; (b) assist Client in negotiating the acquisition of property in the market area; and (c) comply with other provisions of this agreement.",
+    "original_name": "TERM This agreement begins on"
+  },
+  {
+    "field_name": "agreement_end_date",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      455.8800048828125,
+      542.1600341796875,
+      576.1199951171875,
+      553.6799926757812
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and ends at 1159 pm on"
+  },
+  {
+    "field_name": "broker_initials_linked_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      327.6000061035156,
+      730.2000122070312,
+      370.44000244140625,
+      741.719970703125
+    ],
+    "context_left": "Initialed for Identification by Broker/Associate",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Initialed for Identification by BrokerAssociate"
+  },
+  {
+    "field_name": "client_initials_linked_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      415.79998779296875,
+      730.2000122070312,
+      455.8800048828125,
+      741.719970703125
+    ],
+    "context_left": "and Client",
+    "context_right": "Page 1 of 5",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and Client"
+  },
+  {
+    "field_name": "page_number_linked_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      460.79998779296875,
+      730.2000122070312,
+      505.9200134277344,
+      741.719970703125
+    ],
+    "context_left": "and Client",
+    "context_right": "Page 1 of 5",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_2"
+  },
+  {
+    "field_name": "agreement_parties_linked_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      241.67999267578125,
+      30.84002685546875,
+      576.239990234375,
+      42.47998046875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Broker compensation or the sharing of compensation between brokers is not set by law nor fixed,",
+    "original_name": "BuyerTenant Representation Agreement between"
+  },
+  {
+    "field_name": "purchase_commission_percent",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      156.0,
+      180.0,
+      216.0,
+      191.6400146484375
+    ],
+    "context_left": "",
+    "context_right": "% of the sales price or a flat fee of $",
+    "context_above": "Broker’s Fee: When Earned and Payable, Client will pay Broker  exceeds the amounts stated in this agreement.",
+    "context_below": "(2) (Leases)  % of one month’s rent or  the lease or a flat fee of $",
+    "original_name": "1 Purchases"
+  },
+  {
+    "field_name": "purchase_flat_fee_amount",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      403.32000732421875,
+      180.0,
+      504.1199951171875,
+      191.6400146484375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(Complete all that apply) :",
+    "context_below": "% of all rents to be paid over the term of",
+    "original_name": "of the sales price or a flat fee of"
+  },
+  {
+    "field_name": "lease_commission_percent",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      137.63999938964844,
+      205.32000732421875,
+      180.0,
+      216.96002197265625
+    ],
+    "context_left": "",
+    "context_right": "% of one month’s rent or",
+    "context_above": "(1) (Purchases)  A.  Broker’s Fee: When Earned and Payable, Client will pay Broker",
+    "context_below": "the lease or a flat fee of $  B.",
+    "original_name": "2 Leases"
+  },
+  {
+    "field_name": "lease_rent_percent",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      312.6000061035156,
+      205.32000732421875,
+      360.1199951171875,
+      216.96002197265625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "% of the sales price or a flat fee of $  Broker’s Fee: When Earned and Payable, Client will pay Broker",
+    "context_below": ".  Source of Compensation: Broker will seek to obtain payment of the fees specified in Paragraph 7A",
+    "original_name": "of one months rent or"
+  },
+  {
+    "field_name": "lease_flat_fee_amount",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      221.63999938964844,
+      218.280029296875,
+      324.0,
+      229.67999267578125
+    ],
+    "context_left": "",
+    "context_right": ".  % of all rents to be paid over the term of",
+    "context_above": "% of one month’s rent or  % of the sales price or a flat fee of $",
+    "context_below": "Source of Compensation: Broker will seek to obtain payment of the fees specified in Paragraph 7A  first from the seller, landlord, or their agents.",
+    "original_name": "the lease or a flat fee of"
+  },
+  {
+    "field_name": "referral_service_provider",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      129.24000549316406,
+      535.3200073242188,
+      576.1199951171875,
+      546.9600219726562
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "improvements to property that Client owns or may acquire, Client ensures that Broker will receive  Broker’s  services  to  procure  or",
+    "context_below": "refers  Client or  any  party  to",
+    "original_name": "to"
+  },
+  {
+    "field_name": "additional_compensation_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      415.55999755859375,
+      610.9199829101562,
+      576.239990234375,
+      622.5599975585938
+    ],
+    "context_left": "bonuses, a range of compensation, or terms such as “TBD”.",
+    "context_right": "",
+    "context_above": "of  compensation  that  are  objectively",
+    "context_below": ".",
+    "original_name": "bonuses a range of compensation or terms such as TBD 1"
+  },
+  {
+    "field_name": "additional_compensation_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      114.0,
+      636.1199951171875,
+      576.1199951171875,
+      647.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "):   bonuses, a range of compensation, or terms such as “TBD”. ascertainable and the specific amount or rate is known at the time of execution. Do  insert  amounts  or  rates  of  compensation",
+    "context_below": "In addition to Broker’s Fee specified under Paragraph 7A, seller, landlord,  or their agent may offer to pay Broker a bonus if Client purchases or leases certain properties. Broker",
+    "original_name": "bonuses a range of compensation or terms such as TBD 2"
+  },
+  {
+    "field_name": "undefined_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      114.0,
+      623.52001953125,
+      576.239990234375,
+      635.1600341796875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "ascertainable and the specific amount or rate is known at the time of execution. Do  insert  amounts  or  rates  of  compensation  provider, utility, or contractor) Broker may receive a fee from the service provider for the referral.",
+    "context_below": "In addition to Broker’s Fee specified under Paragraph 7A, seller, landlord,"
+  },
+  {
+    "field_name": "broker_initials_linked_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      327.6000061035156,
+      742.7999877929688,
+      370.44000244140625,
+      754.4400024414062
+    ],
+    "context_left": "(TXR-1501) 08-23-24          Initialed for Identification by Broker/Associate",
+    "context_right": "",
+    "context_above": "authorized by Client in writing. Client authorization may be made by amending this agreement (use TXR",
+    "context_below": "",
+    "original_name": "Initialed for Identification by BrokerAssociate_2"
+  },
+  {
+    "field_name": "client_initials_linked_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      415.79998779296875,
+      742.7999877929688,
+      455.8800048828125,
+      754.4400024414062
+    ],
+    "context_left": "and Client",
+    "context_right": "Page 2 of 5",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and Client_2"
+  },
+  {
+    "field_name": "page_number_linked_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      460.79998779296875,
+      742.7999877929688,
+      505.9200134277344,
+      754.4400024414062
+    ],
+    "context_left": "and Client",
+    "context_right": "Page 2 of 5",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_4"
+  },
+  {
+    "field_name": "agreement_parties_linked_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      241.67999267578125,
+      30.719970703125,
+      576.239990234375,
+      42.47998046875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Protection Period: “Protection period” means that time starting the day after this agreement ends and  continuing for           days.  Not later than 10 days after this agreement ends, Broker may send Client",
+    "original_name": "BuyerTenant Representation Agreement between_2"
+  },
+  {
+    "field_name": "protection_period_days",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      145.67999267578125,
+      69.84002685546875,
+      175.1999969482422,
+      81.47998046875
+    ],
+    "context_left": "F.",
+    "context_right": "",
+    "context_above": "Buyer/Tenant Representation Agreement between",
+    "context_below": "",
+    "original_name": "continuing for"
+  },
+  {
+    "field_name": "payment_county",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      374.8800048828125,
+      226.08001708984375,
+      495.8399963378906,
+      237.84002685546875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "H County Amounts Payable to Broker are to be paid in cash in"
+  },
+  {
+    "field_name": "client_financial_info",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      253.44000244140625,
+      356.2799987792969,
+      576.1199951171875,
+      368.0400085449219
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Client represents that all information relating to Client’s ability to acquire property in the market area",
+    "context_below": "Broker is not authorized to execute any document in the name of or on behalf of Client concerning the",
+    "original_name": "acquiring property in the market area"
+  },
+  {
+    "field_name": "broker_initials_linked_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      327.6000061035156,
+      742.6799926757812,
+      370.44000244140625,
+      754.4400024414062
+    ],
+    "context_left": "in a separate writing by Client;",
+    "context_right": "",
+    "context_above": "price submitted in a written offer to the seller or landlord unless otherwise instructed  may not disclose to the seller or landlord that Client will pay a price greater than the",
+    "context_below": "",
+    "original_name": "Initialed for Identification by BrokerAssociate_3"
+  },
+  {
+    "field_name": "client_initials_linked_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      415.79998779296875,
+      742.6799926757812,
+      454.0799865722656,
+      754.4400024414062
+    ],
+    "context_left": "",
+    "context_right": "Page 3 of 5",
+    "context_above": "price submitted in a written offer to the seller or landlord unless otherwise instructed  may not disclose to the seller or landlord that Client will pay a price greater than the",
+    "context_below": "",
+    "original_name": "and Client_3"
+  },
+  {
+    "field_name": "page_number_linked_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      460.79998779296875,
+      742.6799926757812,
+      505.9200134277344,
+      754.4400024414062
+    ],
+    "context_left": "",
+    "context_right": "Page 3 of 5",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_5"
+  },
+  {
+    "field_name": "agreement_parties_linked_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      241.67999267578125,
+      30.719970703125,
+      576.239990234375,
+      42.47998046875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "may not disclose any confidential information or any information a seller or landlord  in  writing  not  to",
+    "original_name": "BuyerTenant Representation Agreement between_3"
+  },
+  {
+    "field_name": "additional_provisions",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      349.9200134277344,
+      691.4400024414062,
+      576.239990234375,
+      703.2000122070312
+    ],
+    "context_left": "General Information and Notice to Buyers",
+    "context_right": "",
+    "context_above": "For Your Protection: Get a Home Inspection  Information about Special Flood Hazard Areas Protect Your Family from Lead in Your Home",
+    "context_below": "",
+    "original_name": "undefined_6"
+  },
+  {
+    "field_name": "broker_initials_linked_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      327.6000061035156,
+      742.6799926757812,
+      370.44000244140625,
+      754.4400024414062
+    ],
+    "context_left": "(TXR-1501) 08-23-24          Initialed for Identification by Broker/Associate",
+    "context_right": "",
+    "context_above": "❑",
+    "context_below": "",
+    "original_name": "Initialed for Identification by BrokerAssociate_4"
+  },
+  {
+    "field_name": "client_initials_linked_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      415.79998779296875,
+      742.6799926757812,
+      455.8800048828125,
+      754.4400024414062
+    ],
+    "context_left": "and Client",
+    "context_right": "Page 4 of 5",
+    "context_above": "❑",
+    "context_below": "",
+    "original_name": "and Client_4"
+  },
+  {
+    "field_name": "page_number_linked_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      460.79998779296875,
+      742.6799926757812,
+      505.9200134277344,
+      754.4400024414062
+    ],
+    "context_left": "and Client",
+    "context_right": "Page 4 of 5",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_7"
+  },
+  {
+    "field_name": "agreement_parties_linked_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      244.0800018310547,
+      22.55999755859375,
+      576.239990234375,
+      42.47998046875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "BuyerTenant Representation Agreement between_4"
+  },
+  {
+    "field_name": "broker_printed_name",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      36.0,
+      570.5999755859375,
+      288.1199951171875,
+      590.52001953125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "CONSULT AN ATTORNEY: Broker cannot give legal advice.",
+    "context_below": "Broker’s Printed Name   Broker’s Signature",
+    "original_name": "Brokers Printed Name"
+  },
+  {
+    "field_name": "client_printed_name_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      324.0,
+      570.5999755859375,
+      576.239990234375,
+      590.52001953125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "This is a legally binding agreement.  READ",
+    "context_below": "Client’s Printed Name   Client’s Signature",
+    "original_name": "Clients Printed Name"
+  },
+  {
+    "field_name": "broker_signature",
+    "field_type": "Signature",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      36.0,
+      601.6799926757812,
+      288.1199951171875,
+      621.5999755859375
+    ],
+    "context_left": "",
+    "context_right": "Client’s Printed Name",
+    "context_above": "",
+    "context_below": "Broker’s Signature   Broker’s Associate’s Signature",
+    "original_name": "Brokers Signature"
+  },
+  {
+    "field_name": "client_signature_1",
+    "field_type": "Signature",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      324.0,
+      601.6799926757812,
+      576.239990234375,
+      621.5999755859375
+    ],
+    "context_left": "License No.",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Client’s Signature",
+    "original_name": "Clients Signature"
+  },
+  {
+    "field_name": "broker_associate_printed_name",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      36.0,
+      643.0800170898438,
+      288.1199951171875,
+      663.0
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Broker’s Signature",
+    "context_below": "Broker’s Associate’s Printed Name, if applicable",
+    "original_name": "Brokers Associates Printed Name if applicable"
+  },
+  {
+    "field_name": "client_printed_name_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      324.0,
+      643.0800170898438,
+      576.239990234375,
+      663.0
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Client’s Signature",
+    "context_below": "Client’s Printed Name  Client’s Signature   Date",
+    "original_name": "Clients Printed Name_2"
+  },
+  {
+    "field_name": "client_signature_2",
+    "field_type": "Signature",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      324.0,
+      674.1600341796875,
+      576.239990234375,
+      693.9600219726562
+    ],
+    "context_left": "License No.",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Client’s Signature   Date Page 5 of 5",
+    "original_name": "Clients Signature_2"
+  }
+]
