@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+.env
+
+# Virtual environments
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+*.pdf
+!example.pdf
+*_fields.json
+*_fields_enhanced.json
+*_renamed.json
+*_renamed_*.pdf
+*.log
+
+# Keep the sample Document 9 files but not the actual PDF
+Document 9.pdf
+Document 9_*.pdf
