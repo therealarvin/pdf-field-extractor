@@ -1,0 +1,374 @@
+# Schema Generation Guide
+
+This guide explains how schema items are created from PDF form fields, what each part means, and how to understand the relationships between fields.
+
+## Schema Item Interface
+
+```typescript
+export interface SchemaItem {
+  unique_id: string;
+
+  pdf_attributes?: {
+    formType: string;               
+    formfield: string;               // PDF field name (no coordinates)
+    linked_form_fields_text?: string[]; // continuation boxes (left‑to‑right)
+    linked_form_fields_radio?: { radioField: string; displayName: string }[];
+    linked_dates?: { dateFieldName: string }[];
+  }[];
+
+  /** Rendering, linking, and validation */
+  display_attributes: {
+    display_name: string;
+    input_type: "text" | "radio" | "checkbox" | "signature" | "fileUpload" | "info" | "text-area";
+    description?: string; 
+    order: number;                   // global, increments by 1
+    attribute?: string;              // simple semantic tag ("address", "phone", etc.)
+    block?: string;                  // optional grouping label
+    block_style?: {
+      title?: string;
+      description?: string;
+      icon?: string;                   
+      color_theme?: 'blue' | 'green' | 'purple' | 'orange' | 'gray';
+    }
+    visibleIf?: {
+      unique_id: string;
+      operation: ">" | ">=" | "<" | "<=" | "==" | "!==";
+      valueChecked: string;
+    }[];
+    validation?: {
+      loopback?: {
+        regex: string,
+        message: string; // if rule not met display this message to user
+      }[]
+      crossField?: {
+        rule: ">" | ">=" | "<" | "<=" | "==" | "!==" 
+        unique_id: string; // the unique_id of the field to check against
+        message?: string; // if rule not met display this message to user
+      }[]
+    };
+    placeholder?: string;
+    width?: number;                  // 12‑unit grid
+    display_radio_options?: string[];
+
+    /** Value wiring (kept for accuracy; generation leaves fields blank) */
+    value: {
+      type: "manual" | "resolved";
+      output?: "string" | "SignatureInput__signer" | "SignatureInput__delegator";
+      supabase?: {
+        table: string;
+        column: string;
+        eqBy: { columnName: string; hardCodedValue?: string; variable?: "dealId" | "dealOptionId" }[];
+      }[];
+    };
+
+    breakBefore?: boolean; 
+
+    /** Caching flag – set to true for realtor info */
+    isCached?: boolean;  // true for fields such as realtor_name, realtor_number, realtor_phone, realtor_email, broker_firm_name
+    isRequired?: boolean;
+  };
+}
+```
+
+## Understanding Schema Items
+
+A schema item represents a single input field in your form. It connects the PDF form field to how it appears and behaves in your application.
+
+### Core Components
+
+Each schema item has two main parts:
+
+1. **PDF Attributes** - How the field connects to the actual PDF
+   - `formType`: The form template (e.g., "TxR" for Texas Realtors forms)
+   - `formfield`: The exact field name in the PDF
+   - `linked_form_fields_text`: Continuation fields (when text spans multiple boxes)
+   - `linked_form_fields_radio`: Radio button options
+   - `linked_dates`: Date fields that auto-fill when someone signs
+
+2. **Display Attributes** - How the field appears to users
+   - `display_name`: User-friendly label
+   - `input_type`: What kind of input (text, signature, radio, etc.)
+   - `description`: Optional help text shown below the field
+   - `width`: How much space it takes (1-12 grid units)
+   - `placeholder`: Example text to guide users
+   - `validation`: Rules to ensure correct input
+
+## Field Types and When to Use Them
+
+### Text Fields
+Most common field type. Use for:
+- Names, addresses, phone numbers
+- Amounts, prices, percentages
+- Any free-form text input
+
+**How to identify**: Any field that isn't explicitly a signature, radio, or checkbox
+
+### Text Area Fields
+Multi-line text input. Use for:
+- Long descriptions
+- Comments or notes
+- Any field needing paragraph-style input
+
+**How to identify**: Fields with names like "description", "notes", "comments"
+
+### Signature Fields
+Digital signature capture. Use for:
+- Legal signatures
+- Initials
+- Any field requiring authenticated signing
+
+**How to identify**: Field names containing "signature", "sign", or "initial"
+
+### Radio Buttons
+Single choice from multiple options. Use for:
+- Yes/No questions
+- Property types (house, condo, apartment)
+- Any "pick one" scenario
+
+**How to identify**: PDF identifies these as radio fields, usually with numbered suffixes
+
+### Checkboxes
+Multiple selections allowed. Use for:
+- Terms acceptance
+- Feature selections
+- Any "check all that apply" scenario
+
+**How to identify**: PDF identifies these as checkbox fields
+
+### Info Fields
+Display-only fields. Use for:
+- Instructions
+- Section headers
+- Help text that appears inline with the form
+
+**How to identify**: Not from PDF - manually added for form guidance
+
+### File Upload Fields
+Document attachment. Use for:
+- Supporting documents
+- Images or photos
+- Any file the user needs to submit
+
+**How to identify**: Not from PDF - manually added when documents are needed
+
+## Field Linking and Relationships
+
+Understanding how fields connect to each other is crucial for proper form behavior.
+
+### Same-Value Linked Fields
+When multiple PDF fields should contain the exact same value:
+- **Example**: "buyer_name_page1" and "buyer_name_page2" both need the buyer's name
+- **How it works**: User enters value once, it appears in all linked locations
+- **In the schema**: Multiple entries in the `pdf_attributes` array
+- **Common uses**: Names/addresses that appear on multiple pages, repeated signatures
+
+### Continuation Fields (Text Flow)
+When a single value spans multiple PDF boxes:
+- **Example**: Long addresses split into "address_line1", "address_line2", "address_line3"
+- **How it works**: Text flows from one box to the next as user types
+- **In the schema**: Listed in `linked_form_fields_text` array
+- **Common uses**: Addresses, descriptions, long text fields
+
+### Linked Dates for Signatures
+Date fields that auto-populate when someone signs:
+- **Example**: "buyer_signature" linked to "buyer_date"
+- **How it works**: When signature is captured, today's date fills the date field
+- **In the schema**: Listed in `linked_dates` array
+- **Common uses**: Legal documents requiring dated signatures
+
+## Creating User-Friendly Display Names
+
+The system transforms technical field names into readable labels:
+
+1. **Remove technical prefixes**: txt_, lbl_, fld_, field_
+2. **Remove technical suffixes**: _txt, _text, _field, _fld
+3. **Handle underscores**: Convert to spaces
+4. **Handle camelCase**: Add spaces before capitals
+5. **Capitalize properly**: Each word starts with capital
+
+Examples:
+- "txt_first_name" becomes "First Name"
+- "phoneNumber" becomes "Phone Number"
+- "client1_signature" becomes "Client 1 Signature"
+
+## Field Width Guidelines
+
+The form uses a 12-column grid system. Here's how to think about widths:
+
+- **Full width (12)**: Long descriptions, comments, signature blocks
+- **Three-quarters (8-9)**: Street addresses, company names
+- **Half width (6)**: Names, email addresses, regular signatures
+- **Third width (4)**: Dates, phone numbers, ZIP codes
+- **Quarter width (3)**: State abbreviations, checkboxes, radio buttons
+
+## Helpful Placeholders
+
+Placeholders show users what format to use. The system generates these automatically based on field names:
+
+**Contact Info**:
+- Phone fields → "(555) 123-4567"
+- Email fields → "example@email.com"
+- Work email → "john.doe@company.com"
+
+**Names & Addresses**:
+- First name → "John"
+- Last name → "Doe"
+- Street → "123 Main Street"
+- City → "Anytown"
+- State → "CA"
+- ZIP → "12345"
+
+**Financial**:
+- Price/Amount → "$0.00"
+- Rent → "$2,500.00"
+- Percentage → "3.5%"
+
+**Real Estate Specific**:
+- MLS → "MLS123456"
+- License → "RE123456"
+- Square feet → "2,500"
+
+## Validation Patterns
+
+The system supports two types of validation to ensure data quality:
+
+### Loopback Validation (Self-Checking)
+Uses regex patterns to validate the field's own format:
+
+**Numbers & Money**: Fields with "amount", "price", "fee", "deposit", "percent"
+```typescript
+{
+  loopback: [{
+    regex: "^[\\d.,$%]+$",
+    message: "Must be a valid number or percentage"
+  }]
+}
+```
+
+**Phone Numbers**: Fields with "phone", "tel", "mobile"
+```typescript
+{
+  loopback: [{
+    regex: "^[-()\\s\\d]{10,}$",
+    message: "Must be a valid phone number"
+  }]
+}
+```
+
+**Dates**: Fields with "date" (but not partial date fields)
+```typescript
+{
+  loopback: [{
+    regex: "^(0?[1-9]|1[0-2])[/](0?[1-9]|[12]\\d|3[01])[/]\\d{4}$",
+    message: "Must be a valid date (MM/DD/YYYY)"
+  }]
+}
+```
+
+### Cross-Field Validation (Comparing Fields)
+Compares one field's value against another:
+
+**Date Comparisons**: End date must be after start date
+```typescript
+{
+  crossField: [{
+    rule: ">",
+    unique_id: "start_date",
+    message: "End date must be after start date"
+  }]
+}
+```
+
+**Amount Comparisons**: Down payment can't exceed total price
+```typescript
+{
+  crossField: [{
+    rule: "<=",
+    unique_id: "total_price",
+    message: "Down payment cannot exceed total price"
+  }]
+}
+```
+
+## Cached Fields
+
+Some fields should remember values across forms. These are automatically cached:
+- Realtor/agent information
+- Broker details
+- License numbers
+- Firm names
+
+This means users don't have to re-enter their professional information on every form.
+
+## Special Behaviors
+
+### Manual vs PDF Fields
+- **PDF-linked fields**: Have `pdf_attributes`, connect to actual PDF
+- **Manually added fields**: No PDF connection, used for data collection only
+- **Key difference**: Manual fields can have `display_radio_options` for custom radio buttons
+
+### Cascading Links
+When you link Field A to Field B:
+- If Field B has continuation fields, Field A inherits them
+- If Field B has same-value links, Field A gets all those PDF fields
+- This creates powerful field relationships but prevents overly complex scenarios
+
+### The "Attribute" Field
+The system no longer auto-generates the `attribute` field. This was previously used for semantic tagging but is now left for manual configuration only.
+
+### Block Grouping and Styling
+Fields can be grouped into visual blocks:
+- `block`: Groups fields under a common section
+- `block_style`: Adds visual styling to the block
+  - `title`: Block header text
+  - `description`: Help text for the entire block
+  - `icon`: Visual icon for the block
+  - `color_theme`: Color scheme (blue, green, purple, orange, gray)
+
+### Layout Control
+- `breakBefore`: Forces field to start on a new row
+- Useful for creating visual separation between sections
+
+### Visibility Conditions
+Fields can show/hide based on other field values:
+```typescript
+visibleIf: [{
+  unique_id: "property_type",
+  operation: "==",
+  valueChecked: "condo"
+}]
+```
+This shows the field only when property_type equals "condo"
+
+## Common Patterns in Real Estate Forms
+
+### Buyer/Seller Information
+- Multiple signature blocks with associated dates
+- Repeated name fields across pages (same-value links)
+- Address fields that span multiple boxes (continuation)
+
+### Property Details
+- Radio buttons for property type
+- Checkboxes for features/amenities
+- Text fields for descriptions
+
+### Financial Information
+- Validated number fields for amounts
+- Percentage fields for rates
+- Calculated fields (though these require manual setup)
+
+## Understanding Field Order
+
+The `order` number determines the sequence fields appear in the form. The system:
+1. Assigns sequential numbers starting from 1
+2. Maintains order when adding/removing fields
+3. Allows manual reordering through drag-and-drop
+
+## Tips for Schema Review
+
+When reviewing generated schemas:
+1. Check that related fields are properly linked
+2. Verify display names make sense to end users
+3. Ensure widths create a logical layout
+4. Confirm placeholders provide helpful guidance
+5. Test that validation rules aren't too restrictive
