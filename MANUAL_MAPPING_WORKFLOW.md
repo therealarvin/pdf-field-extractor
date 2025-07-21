@@ -42,7 +42,7 @@ Analyze the extracted fields JSON and create a mapping file (`field_mapping_<doc
 
 #### Naming Conventions:
 - Use descriptive, lowercase names with underscores
-- For linked fields across pages, use `_linked_` suffix with page number
+- For same value fields across pages, use `_linked_` suffix with page number
 - For continuation fields, use `_cont` suffix
 - Group related fields with common prefixes (e.g., `tenant_`, `landlord_`, `property_`)
 - For checkbox/option fields, use descriptive names indicating the option

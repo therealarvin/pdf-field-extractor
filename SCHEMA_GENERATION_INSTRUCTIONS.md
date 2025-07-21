@@ -33,7 +33,9 @@ Examine the extracted fields to identify:
 Look for fields that should contain identical values:
 - **Pattern**: Fields with similar base names but different suffixes (e.g., `buyer_name_page1`, `buyer_name_page2`)
 - **Pattern**: Fields ending in `_linked_<number>` or `_p<number>`
-- **Common examples**: Names, addresses, phone numbers appearing on multiple pages
+- **Pattern**: Fields containing `_linked_` in their names (counterintuitively, these are same-value, not continuation fields)
+- **Pattern**: Fields with different names that semantically represent the same data value
+- **Common examples**: Names, contact information, property details appearing on multiple pages
 
 #### Continuation Fields (Text Flow)
 Identify fields where text should flow from one to the next:
@@ -87,7 +89,7 @@ Determine the appropriate input type for each field:
 
 - **text**: Default for most fields
 - **text-area**: Fields with names containing `description`, `notes`, `comments`, `explanation`, or fields wider than 8 grid units
-- **signature**: Fields containing `signature`, `sign`, `initial`
+- **signature**: Fields containing `signature`, `sign`, `initial` (note: initials are signature types)
 - **radio**: Fields identified as radio buttons in PDF with multiple options
 - **checkbox**: Fields identified as checkboxes in PDF
 - **fileUpload**: Manually added fields for document attachments (not from PDF)
@@ -217,8 +219,10 @@ Automatically set `isCached: true` for fields containing:
 
 Fields that are linked to other fields should NOT have their own individual schema items. Instead, they should be included in the `pdf_attributes` of the main field:
 
-**Same-Value Links**: Fields that share the same value across multiple pages
-- Example: `buyer_name_page1` and `buyer_name_page2` → Create ONE schema item for `buyer_name` with both fields in `pdf_attributes`
+**Same-Value Links**: Fields that share the same value across multiple pages or locations
+- Example: `buyer_name_page1` and `buyer_name_page2` → Create ONE schema item for `buyer_name` with both fields as separate objects in `pdf_attributes` array
+- Example: `property_info` and `property_info_linked_page_3` → Create ONE schema item with each field as its own `pdf_attributes` object
+- Example: Fields with different names but same semantic meaning → Consolidate into ONE schema item with multiple `pdf_attributes` objects
 
 **Continuation Fields**: Fields where text flows from one to the next
 - Example: `property_address` and `property_address_continued` → Create ONE schema item for `property_address` with continuation field in `linked_form_fields_text`
@@ -256,8 +260,10 @@ When the extraction reveals radio buttons with `radio_options`, create a single 
 After processing all relationships:
 - Count the extracted fields from the JSON
 - Subtract fields that are linked/continuation/radio options
-- Your final schema should have fewer items than the original field count
+- Your final schema should have significantly fewer items than the original field count
 - Document which fields were consolidated and why
+- Pay special attention to fields that might semantically represent the same data value but have different names
+- Ensure no duplicate schema items exist for the same semantic concept
 
 ### Step 12: Generate TypeScript Schema
 
@@ -277,9 +283,20 @@ export const [formTypeInCamelCase]Schema: SchemaItem[] = [
 {
   unique_id: string, // Use original field name or create semantic ID
   
+  // For same-value fields, create separate pdf_attributes objects for each occurrence
   pdf_attributes: [{
     formType: string, // Extracted from filename
-    formfield: string, // Original PDF field name
+    formfield: string, // Original PDF field name for first occurrence
+  }, {
+    formType: string, // Same form type
+    formfield: string, // Original PDF field name for second occurrence
+    // Add more objects for each same-value field occurrence
+  }],
+  
+  // OR for other field types:
+  pdf_attributes: [{
+    formType: string,
+    formfield: string,
     linked_form_fields_text?: string[], // Continuation fields
     linked_form_fields_radio?: { radioField: string; displayName: string }[],
     linked_dates?: { dateFieldName: string }[]
