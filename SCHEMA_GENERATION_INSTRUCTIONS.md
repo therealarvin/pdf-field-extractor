@@ -1,6 +1,6 @@
 # Schema Generation Instructions
 
-This document provides step-by-step instructions for AI agents to generate TypeScript schemas from renamed PDF forms in the `renamed-and-review-forms` folder.
+This document provides step-by-step instructions for AI agents to generate TypeScript schemas from renamed PDF forms in the `renamed-and-reviewed-forms` folder.
 
 ## Overview
 
@@ -9,7 +9,7 @@ The schema generation process converts a renamed PDF form into a TypeScript file
 ## Prerequisites
 
 Before starting, ensure:
-1. The PDF is in the `renamed-and-review-forms` folder
+1. The PDF is in the `renamed-and-reviewed-forms` folder
 2. The PDF has already been through the field mapping process (fields have semantic names)
 3. Python scripts are available in the working directory
 
@@ -20,7 +20,7 @@ Before starting, ensure:
 Extract all field information from the renamed PDF:
 
 ```bash
-python3 extract_pdf_fields_enhanced.py renamed-and-review-forms/<pdf_filename>
+python3 extract_pdf_fields_enhanced.py renamed-and-reviewed-forms/<pdf_filename>
 ```
 
 This creates a JSON file with field details, types, positions, and contextual information.
@@ -211,7 +211,55 @@ Automatically set `isCached: true` for fields containing:
 - `license`, `firm_name`, `company_name`
 - Any professional contact information that should persist across forms
 
-### Step 11: Generate TypeScript Schema
+### Step 11: Handle Linked Fields and Radio Buttons
+
+#### Linked Fields - Do NOT Create Separate Schema Items
+
+Fields that are linked to other fields should NOT have their own individual schema items. Instead, they should be included in the `pdf_attributes` of the main field:
+
+**Same-Value Links**: Fields that share the same value across multiple pages
+- Example: `buyer_name_page1` and `buyer_name_page2` → Create ONE schema item for `buyer_name` with both fields in `pdf_attributes`
+
+**Continuation Fields**: Fields where text flows from one to the next
+- Example: `property_address` and `property_address_continued` → Create ONE schema item for `property_address` with continuation field in `linked_form_fields_text`
+
+**Linked Dates**: Date fields that auto-populate when signatures are captured
+- Example: `tenant_signature` and `tenant_signature_date` → Create ONE schema item for `tenant_signature` with date field in `linked_dates`
+
+**Radio Button Options**: Individual radio button values within a group
+- Example: `monthly_rent_value` group with `rent_price_changes` and `rent_price_remains_the_same` options → Create ONE schema item for `monthly_rent_value` with options in `linked_form_fields_radio`
+
+#### Radio Button Handling
+
+When the extraction reveals radio buttons with `radio_options`, create a single schema item with:
+
+```typescript
+{
+  unique_id: "monthly_rent_value",
+  pdf_attributes: [{
+    formType: "residential_lease_extension",
+    formfield: "monthly_rent_value",
+    linked_form_fields_radio: [
+      { radioField: "rent_price_changes", displayName: "Rent Price Changes" },
+      { radioField: "rent_price_remains_the_same", displayName: "Rent Price Remains the Same" }
+    ]
+  }],
+  display_attributes: {
+    input_type: "radio",
+    // ... other attributes
+  }
+}
+```
+
+#### Field Count Verification
+
+After processing all relationships:
+- Count the extracted fields from the JSON
+- Subtract fields that are linked/continuation/radio options
+- Your final schema should have fewer items than the original field count
+- Document which fields were consolidated and why
+
+### Step 12: Generate TypeScript Schema
 
 Create a TypeScript file with the following structure:
 
@@ -257,8 +305,7 @@ export const [formTypeInCamelCase]Schema: SchemaItem[] = [
     placeholder?: string,
     width?: number, // 1-12 grid system
     value: {
-      type: "manual", // Always use "manual" for initial generation
-      output?: string // Only set for signature fields
+      type: "manual" // Always use "manual", do NOT include output field
     },
     isCached?: boolean, // true for realtor/broker info
     isRequired?: boolean, // Determine based on field importance
@@ -267,7 +314,7 @@ export const [formTypeInCamelCase]Schema: SchemaItem[] = [
 }
 ```
 
-### Step 12: Quality Assurance
+### Step 13: Quality Assurance
 
 Before finalizing the schema:
 
@@ -278,7 +325,7 @@ Before finalizing the schema:
 5. **Test validation**: Ensure rules aren't too restrictive
 6. **Confirm order**: Fields should follow a logical sequence
 
-## Step 13: Deploy Schema to Application
+## Step 14: Deploy Schema to Application
 
 After generating the schema file, move it to the application's schema directory:
 
@@ -318,7 +365,7 @@ After generation, verify:
 
 ```bash
 # Extract fields from a renamed PDF
-python3 extract_pdf_fields_enhanced.py renamed-and-review-forms/residential_lease_form.pdf
+python3 extract_pdf_fields_enhanced.py renamed-and-reviewed-forms/residential_lease_form.pdf
 
 # Analyze the resulting JSON and generate schema
 # (This is the manual analysis and TypeScript generation step)

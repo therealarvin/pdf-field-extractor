@@ -23,6 +23,7 @@ class EnhancedPDFFieldExtractor:
     def extract_form_fields_with_pymupdf(self) -> Dict[str, any]:
         """Extract form fields using PyMuPDF for better position detection"""
         fields = {}
+        radio_groups = {}
         
         try:
             pdf_document = fitz.open(self.pdf_path)
@@ -37,14 +38,62 @@ class EnhancedPDFFieldExtractor:
                     field_type = widget.field_type_string
                     rect = widget.rect
                     
-                    fields[field_name] = {
-                        'name': field_name,
-                        'type': field_type,
-                        'value': field_value or '',
-                        'page': page_num,
-                        'rect': [rect.x0, rect.y0, rect.x1, rect.y1],
-                        'widget': widget
-                    }
+                    # Handle radio buttons specially to group them
+                    if field_type == 'RadioButton':
+                        button_states = widget.button_states() if hasattr(widget, 'button_states') else {}
+                        
+                        # Extract option names from button states
+                        options = []
+                        if 'normal' in button_states:
+                            for state in button_states['normal']:
+                                if state != 'Off':  # 'Off' is the default unselected state
+                                    options.append(state)
+                        
+                        if field_name not in radio_groups:
+                            radio_groups[field_name] = {
+                                'name': field_name,
+                                'type': field_type,
+                                'value': field_value or '',
+                                'page': page_num,
+                                'rect': [rect.x0, rect.y0, rect.x1, rect.y1],
+                                'widget': widget,
+                                'options': set(options),
+                                'individual_buttons': []
+                            }
+                        else:
+                            # Merge options and update rect to encompass all buttons
+                            radio_groups[field_name]['options'].update(options)
+                            # Expand bounding rect to include this button
+                            existing_rect = radio_groups[field_name]['rect']
+                            new_rect = [rect.x0, rect.y0, rect.x1, rect.y1]
+                            radio_groups[field_name]['rect'] = [
+                                min(existing_rect[0], new_rect[0]),  # min x0
+                                min(existing_rect[1], new_rect[1]),  # min y0
+                                max(existing_rect[2], new_rect[2]),  # max x1
+                                max(existing_rect[3], new_rect[3])   # max y1
+                            ]
+                        
+                        # Add individual button info
+                        radio_groups[field_name]['individual_buttons'].append({
+                            'rect': [rect.x0, rect.y0, rect.x1, rect.y1],
+                            'options': options
+                        })
+                        
+                    else:
+                        # Handle non-radio fields normally
+                        fields[field_name] = {
+                            'name': field_name,
+                            'type': field_type,
+                            'value': field_value or '',
+                            'page': page_num,
+                            'rect': [rect.x0, rect.y0, rect.x1, rect.y1],
+                            'widget': widget
+                        }
+            
+            # Convert radio groups to proper format and add to fields
+            for group_name, group_data in radio_groups.items():
+                group_data['options'] = list(group_data['options'])  # Convert set to list
+                fields[group_name] = group_data
             
             pdf_document.close()
             return fields
@@ -213,6 +262,10 @@ class EnhancedPDFFieldExtractor:
                 'context_above': directional_context['above'],
                 'context_below': directional_context['below']
             }
+            
+            # Add radio button options if this is a radio button group
+            if field_info.get('type') == 'RadioButton' and 'options' in field_info:
+                result['radio_options'] = field_info['options']
             
             results.append(result)
         
