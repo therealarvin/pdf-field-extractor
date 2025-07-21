@@ -1,0 +1,3691 @@
+[
+  {
+    "field_name": "landlord_name_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      108.0,
+      165.84002685546875,
+      576.1199951171875,
+      177.5999755859375
+    ],
+    "context_left": "Landlord:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Landlord 1"
+  },
+  {
+    "field_name": "landlord_name_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      108.0,
+      178.55999755859375,
+      576.1199951171875,
+      190.32000732421875
+    ],
+    "context_left": "Landlord:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "E-Mail:",
+    "original_name": "Landlord 2"
+  },
+  {
+    "field_name": "landlord_address",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      118.68000030517578,
+      191.280029296875,
+      576.1199951171875,
+      203.03997802734375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "E-Mail:",
+    "original_name": "Address"
+  },
+  {
+    "field_name": "landlord_city_state_zip",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      150.60000610351562,
+      204.0,
+      576.1199951171875,
+      215.760009765625
+    ],
+    "context_left": "Address:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "E-Mail:",
+    "original_name": "City State Zip"
+  },
+  {
+    "field_name": "landlord_phone",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      106.91999816894531,
+      216.719970703125,
+      216.0,
+      228.47998046875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Address:   Landlord:",
+    "context_below": "Broker:  Address:",
+    "original_name": "Phone"
+  },
+  {
+    "field_name": "landlord_fax",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      240.47999572753906,
+      216.719970703125,
+      360.0,
+      228.47998046875
+    ],
+    "context_left": "Fax:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Fax"
+  },
+  {
+    "field_name": "landlord_email",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      397.20001220703125,
+      216.719970703125,
+      576.1199951171875,
+      228.47998046875
+    ],
+    "context_left": "E-Mail:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "EMail"
+  },
+  {
+    "field_name": "broker_name_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      108.0,
+      239.6400146484375,
+      576.1199951171875,
+      251.4000244140625
+    ],
+    "context_left": "Broker:",
+    "context_right": "",
+    "context_above": "E-Mail:",
+    "context_below": "",
+    "original_name": "Broker 1"
+  },
+  {
+    "field_name": "broker_name_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      108.0,
+      252.3599853515625,
+      576.1199951171875,
+      264.1199951171875
+    ],
+    "context_left": "Broker:",
+    "context_right": "",
+    "context_above": "E-Mail:",
+    "context_below": "E-Mail:",
+    "original_name": "Broker 2"
+  },
+  {
+    "field_name": "broker_address",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      118.68000030517578,
+      265.08001708984375,
+      576.1199951171875,
+      276.84002685546875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "E-Mail:",
+    "context_below": "E-Mail: Landlord appoints Broker as Landlord’s sole and exclusive real estate agent and grants to Broker the",
+    "original_name": "Address_2"
+  },
+  {
+    "field_name": "broker_city_state_zip",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      150.60000610351562,
+      277.79998779296875,
+      576.1199951171875,
+      289.55999755859375
+    ],
+    "context_left": "Address:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "E-Mail: Landlord appoints Broker as Landlord’s sole and exclusive real estate agent and grants to Broker the",
+    "original_name": "City State Zip_2"
+  },
+  {
+    "field_name": "broker_phone",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      106.91999816894531,
+      290.5199890136719,
+      216.0,
+      302.2799987792969
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Address:   Broker:",
+    "context_below": "exclusive right to lease the Property.",
+    "original_name": "Phone_2"
+  },
+  {
+    "field_name": "broker_fax",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      240.47999572753906,
+      290.5199890136719,
+      360.0,
+      302.2799987792969
+    ],
+    "context_left": "Fax:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Landlord appoints Broker as Landlord’s sole and exclusive real estate agent and grants to Broker the",
+    "original_name": "Fax_2"
+  },
+  {
+    "field_name": "broker_email",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      397.20001220703125,
+      290.5199890136719,
+      576.1199951171875,
+      302.2799987792969
+    ],
+    "context_left": "E-Mail:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "EMail_2"
+  },
+  {
+    "field_name": "property_building_complex",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      176.75999450683594,
+      373.0799865722656,
+      576.1199951171875,
+      384.8399963378906
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "“Property” means the following real property in Texas along with all its improvements:",
+    "context_below": "(Identify exhibit if described on attachment)",
+    "original_name": "Building or Complex"
+  },
+  {
+    "field_name": "property_address",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      118.68000030517578,
+      385.79998779296875,
+      576.1199951171875,
+      397.55999755859375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "“Property” means the following real property in Texas along with all its improvements:",
+    "context_below": "County:",
+    "original_name": "Address_3"
+  },
+  {
+    "field_name": "property_city_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      97.08000183105469,
+      398.5199890136719,
+      252.1199951171875,
+      410.2799987792969
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Building or Complex:   PROPERTY:",
+    "context_below": "Legal Description of land on which Property lies",
+    "original_name": "City 1"
+  },
+  {
+    "field_name": "property_city_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      72.0,
+      423.9599914550781,
+      576.1199951171875,
+      435.7200012207031
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "County:",
+    "context_below": "",
+    "original_name": "City 2"
+  },
+  {
+    "field_name": "property_city_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      72.0,
+      449.3999938964844,
+      576.1199951171875,
+      461.1600036621094
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(Identify exhibit if described on attachment)  County:",
+    "context_below": "",
+    "original_name": "City 3"
+  },
+  {
+    "field_name": "property_city_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      72.0,
+      474.8399963378906,
+      576.1199951171875,
+      486.6000061035156
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "area of the Property may not equal the actual useable area within the Property and may include an",
+    "original_name": "City 4"
+  },
+  {
+    "field_name": "property_county",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      296.1600036621094,
+      398.5199890136719,
+      468.1199951171875,
+      410.2799987792969
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "“Property” means the following real property in Texas along with all its improvements:",
+    "context_below": "(Identify exhibit if described on attachment)",
+    "original_name": "County"
+  },
+  {
+    "field_name": "property_zip",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      489.4800109863281,
+      398.5199890136719,
+      576.1199951171875,
+      410.2799987792969
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": ":",
+    "original_name": "Zip"
+  },
+  {
+    "field_name": "property_legal_description_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      521.280029296875,
+      411.239990234375,
+      576.1199951171875,
+      423.0
+    ],
+    "context_left": "(Identify exhibit if described on attachment)    Zip:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Legal Description of land on which Property lies Identify exhibit if described on attachment 1"
+  },
+  {
+    "field_name": "property_legal_description_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      72.0,
+      436.67999267578125,
+      576.1199951171875,
+      448.44000244140625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(Identify exhibit if described on attachment)  County:",
+    "context_below": "",
+    "original_name": "Legal Description of land on which Property lies Identify exhibit if described on attachment 2"
+  },
+  {
+    "field_name": "property_legal_description_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      72.0,
+      462.1199951171875,
+      576.1199951171875,
+      473.8800048828125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(Identify exhibit if described on attachment)",
+    "context_below": "area of the Property may not equal the actual useable area within the Property and may include an",
+    "original_name": "Legal Description of land on which Property lies Identify exhibit if described on attachment 3"
+  },
+  {
+    "field_name": "property_square_feet",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      254.63999938964844,
+      497.760009765625,
+      360.1199951171875,
+      509.5199890136719
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "area of the Property may not equal the actual useable area within the Property and may include an  (If the Property is a condominium, attach Condominium Addendum to Listing (TXR-1401.)",
+    "original_name": "The Property contains approximately"
+  },
+  {
+    "field_name": "base_rental_rate",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      476.6400146484375,
+      582.239990234375,
+      576.1199951171875,
+      594.0
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": ".",
+    "original_name": "A Landlord instructs Broker to market the Property at the following base rental rate"
+  },
+  {
+    "field_name": "lease_term_max_months",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      383.1600036621094,
+      653.52001953125,
+      441.4800109863281,
+      665.280029296875
+    ],
+    "context_left": "(1) Landlord will lease the Property for a term of not fewer than",
+    "context_right": "",
+    "context_above": "At the rental rate stated in Paragraph 3A, Broker is to market the Property under the following terms:",
+    "context_below": "(Check only one box)",
+    "original_name": "months and not more than"
+  },
+  {
+    "field_name": "lease_term_min_months",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      54.0,
+      656.4000244140625,
+      63.84000015258789,
+      664.0800170898438
+    ],
+    "context_left": "",
+    "context_right": "(1) Landlord will lease the Property for a term of not fewer than",
+    "context_above": "B.",
+    "context_below": "",
+    "original_name": "1 Landlord will lease the Property for a term of not fewer than"
+  },
+  {
+    "field_name": "expense_reimbursement_method",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      54.0,
+      692.0399780273438,
+      63.84000015258789,
+      699.719970703125
+    ],
+    "context_left": "",
+    "context_right": "(2) Expense Reimbursements calculated under the following method:",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "2 Expense Reimbursements calculated under the following method Check only one box"
+  },
+  {
+    "field_name": "lease_term_months",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      90.0,
+      666.239990234375,
+      180.1199951171875,
+      678.0
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "B.",
+    "context_below": "",
+    "original_name": "months"
+  },
+  {
+    "field_name": "landlord_initials_linked_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      294.239990234375,
+      743.4000244140625,
+      334.55999755859375,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Initialed for Identification by Landlord"
+  },
+  {
+    "field_name": "landlord_initials_cont_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      339.6000061035156,
+      743.4000244140625,
+      384.9599914550781,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined"
+  },
+  {
+    "field_name": "broker_initials_linked_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      476.1600036621094,
+      743.4000244140625,
+      516.47998046875,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and BrokerAssociate"
+  },
+  {
+    "field_name": "property_address_linked_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      162.60000610351562,
+      33.47998046875,
+      576.1199951171875,
+      45.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "(a) Base-year expenses:  A tenant is to pay the tenant’s pro rata share of the following expenses   for the Property that exceed the amount of base-year expenses for:",
+    "original_name": "Commercial Listing concerning"
+  },
+  {
+    "field_name": "base_year_expenses_description",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      72.0,
+      59.03997802734375,
+      81.83999633789062,
+      66.719970703125
+    ],
+    "context_left": "",
+    "context_right": "(a) Base-year expenses:  A tenant is to pay the tenant’s pro rata share of the following expenses  for the Property that exceed the amount of base-year expenses for:",
+    "context_above": "Commercial Listing concerning",
+    "context_below": "  CAM, and",
+    "original_name": "a Baseyear expenses A tenant is to pay the tenants pro rata share of the following expenses"
+  },
+  {
+    "field_name": "expense_stops_description",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      72.0,
+      107.4000244140625,
+      81.83999633789062,
+      115.08001708984375
+    ],
+    "context_left": "",
+    "context_right": "(b) Expense-stops:  A tenant is to pay the tenant’s pro rata share of the following expenses for the  Property that exceed $",
+    "context_above": "CAM, and        ",
+    "context_below": "  CAM, and",
+    "original_name": "b Expensestops  A tenant is to pay the tenants pro rata share of the following expenses for the"
+  },
+  {
+    "field_name": "net_expenses_description",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      72.0,
+      155.760009765625,
+      81.83999633789062,
+      163.44000244140625
+    ],
+    "context_left": "",
+    "context_right": "(c) Net:  A tenant is to pay the tenant’s pro rata share of expenses for the following expenses:      taxes,  ",
+    "context_above": "CAM, and    Property that exceed $        ",
+    "context_below": "",
+    "original_name": "c Net  A tenant is to pay the tenants pro rata share of expenses for the following expenses"
+  },
+  {
+    "field_name": "base_year",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      176.0399932861328,
+      84.47998046875,
+      185.8800048828125,
+      92.15997314453125
+    ],
+    "context_left": "CAM, and   ",
+    "context_right": "",
+    "context_above": "Commercial Listing concerning",
+    "context_below": "Property that exceed $     ",
+    "original_name": "for the Property that exceed the amount of baseyear expenses for"
+  },
+  {
+    "field_name": "cam_expenses_1",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      108.0,
+      84.47998046875,
+      117.83999633789062,
+      92.15997314453125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "   Commercial Listing concerning",
+    "context_below": "   Property that exceed $",
+    "original_name": "CAM and"
+  },
+  {
+    "field_name": "taxes_expenses_1",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      457.79998779296875,
+      71.760009765625,
+      467.6400146484375,
+      79.44000244140625
+    ],
+    "context_left": "for the Property that exceed the amount of base-year expenses for:",
+    "context_right": "taxes,          insurance,",
+    "context_above": "",
+    "context_below": " ",
+    "original_name": "taxes"
+  },
+  {
+    "field_name": "insurance_expenses_1",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      511.67999267578125,
+      71.760009765625,
+      521.52001953125,
+      79.44000244140625
+    ],
+    "context_left": "taxes,         for the Property that exceed the amount of base-year expenses for:",
+    "context_right": "insurance,            .",
+    "context_above": "",
+    "context_below": " ",
+    "original_name": "insurance"
+  },
+  {
+    "field_name": "other_expenses_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      189.0,
+      81.5999755859375,
+      571.3200073242188,
+      93.3599853515625
+    ],
+    "context_left": "  CAM, and   ",
+    "context_right": "",
+    "context_above": "(a) Base-year expenses:  A tenant is to pay the tenant’s pro rata share of the following expenses",
+    "context_below": "(b) Expense-stops:  A tenant is to pay the tenant’s pro rata share of the following expenses for the            per square foot per year for:",
+    "original_name": "undefined_2"
+  },
+  {
+    "field_name": "expense_stop_amount",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      219.0,
+      117.239990234375,
+      313.0799865722656,
+      129.0
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": " for the Property that exceed the amount of base-year expenses for:",
+    "context_below": "",
+    "original_name": "Property that exceed"
+  },
+  {
+    "field_name": "taxes_expenses_2",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      463.44000244140625,
+      120.1199951171875,
+      473.2799987792969,
+      127.79998779296875
+    ],
+    "context_left": "per square foot per year for:",
+    "context_right": "  insurance,            .",
+    "context_above": ".    taxes,     insurance,   ",
+    "context_below": "",
+    "original_name": "taxes_2"
+  },
+  {
+    "field_name": "insurance_expenses_2",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      511.0799865722656,
+      120.1199951171875,
+      520.9199829101562,
+      127.79998779296875
+    ],
+    "context_left": "taxes,                per square foot per year for:",
+    "context_right": ".",
+    "context_above": ".    taxes,     insurance,   ",
+    "context_below": "",
+    "original_name": "insurance_2"
+  },
+  {
+    "field_name": "cam_expenses_2",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      108.0,
+      132.84002685546875,
+      117.83999633789062,
+      140.52001953125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Property that exceed $            CAM, and       ",
+    "context_below": "   ",
+    "original_name": "CAM and_2"
+  },
+  {
+    "field_name": "expense_stop_per_sqft",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      176.0399932861328,
+      132.84002685546875,
+      185.8800048828125,
+      140.52001953125
+    ],
+    "context_left": "CAM, and   ",
+    "context_right": "",
+    "context_above": "Property that exceed $     CAM, and           ",
+    "context_below": "  ",
+    "original_name": "undefined_3"
+  },
+  {
+    "field_name": "other_expenses_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      189.0,
+      129.96002197265625,
+      571.3200073242188,
+      141.719970703125
+    ],
+    "context_left": "  CAM, and   ",
+    "context_right": "",
+    "context_above": "(b) Expense-stops:  A tenant is to pay the tenant’s pro rata share of the following expenses for the",
+    "context_below": "(c) Net:  A tenant is to pay the tenant’s pro rata share of expenses for the following expenses:  ",
+    "original_name": "undefined_4"
+  },
+  {
+    "field_name": "taxes_expenses_3",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      108.0,
+      168.47998046875,
+      117.83999633789062,
+      176.15997314453125
+    ],
+    "context_left": "",
+    "context_right": "  insurance,",
+    "context_above": "CAM, and        Property that exceed $",
+    "context_below": "",
+    "original_name": "taxes_3"
+  },
+  {
+    "field_name": "insurance_expenses_3",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      153.47999572753906,
+      168.47998046875,
+      163.32000732421875,
+      176.15997314453125
+    ],
+    "context_left": "taxes,           ",
+    "context_right": "  CAM, and",
+    "context_above": "CAM, and            Property that exceed $",
+    "context_below": "",
+    "original_name": "insurance_3"
+  },
+  {
+    "field_name": "cam_expenses_3",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      220.44000244140625,
+      168.47998046875,
+      230.27999877929688,
+      176.15997314453125
+    ],
+    "context_left": "insurance,        taxes,",
+    "context_right": "",
+    "context_above": "(c) Net:  A tenant is to pay the tenant’s pro rata share of expenses for the following expenses:   CAM, and             Property that exceed $",
+    "context_below": "",
+    "original_name": "CAM and_3"
+  },
+  {
+    "field_name": "other_expenses_3",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      285.3599853515625,
+      168.47998046875,
+      295.20001220703125,
+      176.15997314453125
+    ],
+    "context_left": "CAM, and      insurance,",
+    "context_right": "",
+    "context_above": "(c) Net:  A tenant is to pay the tenant’s pro rata share of expenses for the following expenses:                       per square foot per year for:",
+    "context_below": "Unless Landlord provides Broker with written definitions otherwise, the phrases “base-year expenses”,",
+    "original_name": "undefined_5"
+  },
+  {
+    "field_name": "other_expenses_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      298.32000732421875,
+      165.5999755859375,
+      576.1199951171875,
+      177.3599853515625
+    ],
+    "context_left": "  CAM, and    insurance,",
+    "context_right": "",
+    "context_above": "per square foot per year for:   taxes,   ",
+    "context_below": "",
+    "original_name": "undefined_6"
+  },
+  {
+    "field_name": "expense_definitions_note",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      108.0,
+      178.32000732421875,
+      571.3200073242188,
+      190.08001708984375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(c) Net:  A tenant is to pay the tenant’s pro rata share of expenses for the following expenses:",
+    "context_below": "Unless Landlord provides Broker with written definitions otherwise, the phrases “base-year expenses”,   “expense stops,” “CAM,” “insurance”, and “taxes” have the meanings assigned to those terms in the  for  Expense  Reimbursement",
+    "original_name": "Unless Landlord provides Broker with written definitions otherwise the phrases baseyear expenses"
+  },
+  {
+    "field_name": "percentage_rent_threshold",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      218.52000427246094,
+      262.32000732421875,
+      252.0,
+      274.08001708984375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": ".  Lease  Addendum  for  Expense  “expense stops,” “CAM,” “insurance”, and “taxes” have the meanings assigned to those terms in the",
+    "context_below": "",
+    "original_name": "multiplied by tenants gross sales that exceed"
+  },
+  {
+    "field_name": "percentage_rent_percent",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      490.0799865722656,
+      262.32000732421875,
+      576.1199951171875,
+      274.08001708984375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "published  by  Texas",
+    "context_below": "",
+    "original_name": "undefined_7"
+  },
+  {
+    "field_name": "percentage_rent_amount",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      54.0,
+      265.20001220703125,
+      63.84000015258789,
+      272.8800048828125
+    ],
+    "context_left": "",
+    "context_right": "(3) Percentage Rent equal to",
+    "context_above": ".  REALTORS ® Commercial  Lease",
+    "context_below": "",
+    "original_name": "3 Percentage Rent equal to"
+  },
+  {
+    "field_name": "parking_rental_calculation",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      54.0,
+      313.55999755859375,
+      63.84000015258789,
+      321.239990234375
+    ],
+    "context_left": "",
+    "context_right": "(4) Parking Rental calculated as follows:",
+    "context_above": "(3) Percentage Rent equal to     ",
+    "context_below": "",
+    "original_name": "4 Parking Rental calculated as follows"
+  },
+  {
+    "field_name": "rent_increase_calculation",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      54.0,
+      361.9200134277344,
+      63.84000015258789,
+      369.6000061035156
+    ],
+    "context_left": "",
+    "context_right": "(5) Rent Increases in the base rent calculated as follows:",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "5 Rent Increases in the base rent calculated as follows"
+  },
+  {
+    "field_name": "tenant_improvement_allowance",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      54.0,
+      410.2799987792969,
+      63.84000015258789,
+      417.9599914550781
+    ],
+    "context_left": "",
+    "context_right": "(6) Tenant Improvement Allowance that Landlord will provide as follows:",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "6 Tenant Improvement Allowance that Landlord will provide as follows"
+  },
+  {
+    "field_name": "additional_term_7",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      54.0,
+      458.6400146484375,
+      63.84000015258789,
+      466.32000732421875
+    ],
+    "context_left": "",
+    "context_right": "(7)",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "7"
+  },
+  {
+    "field_name": "additional_term_detail_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      275.03997802734375,
+      576.1199951171875,
+      286.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "for  Expense  Reimbursement  (TXR-2103)",
+    "context_below": "",
+    "original_name": "undefined_8"
+  },
+  {
+    "field_name": "additional_term_detail_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      287.760009765625,
+      571.0800170898438,
+      299.5199890136719
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "% multiplied by tenant’s gross sales that exceed",
+    "context_below": "",
+    "original_name": "undefined_9"
+  },
+  {
+    "field_name": "additional_term_detail_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      272.8800048828125,
+      310.67999267578125,
+      576.1199951171875,
+      322.44000244140625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": ".",
+    "context_below": "",
+    "original_name": "undefined_10"
+  },
+  {
+    "field_name": "additional_term_detail_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      323.3999938964844,
+      576.1199951171875,
+      335.1600036621094
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_11"
+  },
+  {
+    "field_name": "additional_term_detail_5",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      336.1199951171875,
+      572.760009765625,
+      347.8800048828125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_12"
+  },
+  {
+    "field_name": "additional_term_detail_6",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      354.0,
+      359.0400085449219,
+      576.1199951171875,
+      370.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": ".",
+    "context_below": "",
+    "original_name": "undefined_13"
+  },
+  {
+    "field_name": "additional_term_detail_7",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      371.760009765625,
+      576.1199951171875,
+      383.5199890136719
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_14"
+  },
+  {
+    "field_name": "additional_term_detail_8",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      384.4800109863281,
+      572.760009765625,
+      396.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "(6) Tenant Improvement Allowance that Landlord will provide as follows:",
+    "original_name": "undefined_15"
+  },
+  {
+    "field_name": "additional_term_detail_9",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      427.55999755859375,
+      407.3999938964844,
+      576.1199951171875,
+      419.1600036621094
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": ".",
+    "context_below": "",
+    "original_name": "undefined_16"
+  },
+  {
+    "field_name": "additional_term_detail_10",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      420.1199951171875,
+      576.1199951171875,
+      431.8800048828125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_17"
+  },
+  {
+    "field_name": "additional_term_detail_11",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      432.8399963378906,
+      572.760009765625,
+      444.6000061035156
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(6) Tenant Improvement Allowance that Landlord will provide as follows:",
+    "context_below": "",
+    "original_name": "undefined_18"
+  },
+  {
+    "field_name": "additional_term_detail_12",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      93.12000274658203,
+      455.760009765625,
+      576.1199951171875,
+      467.5199890136719
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_19"
+  },
+  {
+    "field_name": "term_option_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      468.4800109863281,
+      576.1199951171875,
+      480.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "1"
+  },
+  {
+    "field_name": "term_option_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      481.20001220703125,
+      576.1199951171875,
+      492.9599914550781
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "2"
+  },
+  {
+    "field_name": "listing_start_date",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      493.9200134277344,
+      572.760009765625,
+      505.67999267578125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "and ends at 11:59 p.m. on",
+    "original_name": "TERM This Listing begins on"
+  },
+  {
+    "field_name": "listing_termination_date",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      205.0800018310547,
+      517.7999877929688,
+      324.1199951171875,
+      529.5599975585938
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Landlord may terminate this Listing on notice to Broker any time after",
+    "original_name": "Landlord may terminate this Listing on notice to Broker any time after"
+  },
+  {
+    "field_name": "listing_end_date",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      394.55999755859375,
+      530.6400146484375,
+      535.2000122070312,
+      542.4000244140625
+    ],
+    "context_left": "",
+    "context_right": ".",
+    "context_above": ".",
+    "context_below": "",
+    "original_name": "and ends at 1159 pm on"
+  },
+  {
+    "field_name": "listing_end_year",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.760009765625,
+      517.7999877929688,
+      571.3200073242188,
+      529.5599975585938
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": ".",
+    "context_below": ".",
+    "original_name": "undefined_20"
+  },
+  {
+    "field_name": "commission_percentage",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      516.47998046875,
+      616.0800170898438,
+      526.3200073242188,
+      623.760009765625
+    ],
+    "context_left": "expense reimbursements, and",
+    "context_right": ".",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "of all base rents to be paid over the term of the lease and the same percentage of the"
+  },
+  {
+    "field_name": "commission_expense_reimbursements",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      351.9599914550781,
+      616.0800170898438,
+      361.79998779296875,
+      623.760009765625
+    ],
+    "context_left": "following items to be paid over the term of the lease:",
+    "context_right": "",
+    "context_above": "% of all base rents to be paid over the term of the lease and the same percentage of the",
+    "context_below": "",
+    "original_name": "expense reimbursements and"
+  },
+  {
+    "field_name": "commission_additional_items",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      600.47998046875,
+      144.0,
+      612.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "A.    5.  BROKER’S FEE:",
+    "context_below": "",
+    "original_name": "following items to be paid over the term of the lease"
+  },
+  {
+    "field_name": "commission_item_1",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      54.0,
+      603.3599853515625,
+      63.84000015258789,
+      611.0399780273438
+    ],
+    "context_left": "",
+    "context_right": "(1)   following items to be paid over the term of the lease:",
+    "context_above": "A.    5.  BROKER’S FEE:",
+    "context_below": "",
+    "original_name": "1_2"
+  },
+  {
+    "field_name": "commission_item_2",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      54.0,
+      651.719970703125,
+      63.84000015258789,
+      659.4000244140625
+    ],
+    "context_left": "",
+    "context_right": "(2)",
+    "context_above": "(1)     ",
+    "context_below": "",
+    "original_name": "2_2"
+  },
+  {
+    "field_name": "commission_item_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      529.4400024414062,
+      613.2000122070312,
+      576.1199951171875,
+      624.9600219726562
+    ],
+    "context_left": "  expense reimbursements, and",
+    "context_right": "",
+    "context_above": "",
+    "context_below": ".",
+    "original_name": "undefined_21"
+  },
+  {
+    "field_name": "commission_additional_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      648.8399658203125,
+      576.1199951171875,
+      660.5999755859375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": " % of all base rents to be paid over the term of the lease and the same percentage of the",
+    "context_below": "",
+    "original_name": "1_3"
+  },
+  {
+    "field_name": "commission_additional_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      661.5599975585938,
+      576.1199951171875,
+      673.3200073242188
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "2_3"
+  },
+  {
+    "field_name": "commission_earned_conditions",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      90.0,
+      674.280029296875,
+      571.2000122070312,
+      686.0399780273438
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Earned:  Broker’s fee is earned when any one of the following occurs during this Listing:  (1) Landlord leases or agrees to lease all or part of the Property to anyone on any terms; (2) Broker, individually or in cooperation with another broker, procures a tenant ready, willing, and able",
+    "original_name": "B Earned  Brokers fee is earned when any one of the following occurs during this Listing"
+  },
+  {
+    "field_name": "broker_header_info",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      294.239990234375,
+      743.4000244140625,
+      334.55999755859375,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(2) Broker, individually or in cooperation with another broker, procures a tenant ready, willing, and able  (1) Landlord leases or agrees to lease all or part of the Property to anyone on any terms; Earned:  Broker’s fee is earned when any one of the following occurs during this Listing:",
+    "context_below": "",
+    "original_name": "Texas Ally Real Estate Group 1301 S Interstate 35 314 Austin TX 78741  512 7632559  512 7632559"
+  },
+  {
+    "field_name": "page_number_linked_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      339.6000061035156,
+      743.4000244140625,
+      379.9200134277344,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(2) Broker, individually or in cooperation with another broker, procures a tenant ready, willing, and able  (1) Landlord leases or agrees to lease all or part of the Property to anyone on any terms; Earned:  Broker’s fee is earned when any one of the following occurs during this Listing:",
+    "context_below": "",
+    "original_name": "undefined_22"
+  },
+  {
+    "field_name": "broker_initials_linked_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      471.1199951171875,
+      743.4000244140625,
+      511.44000244140625,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and BrokerAssociate_2"
+  },
+  {
+    "field_name": "lease_terms_acceptance",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      162.60000610351562,
+      33.47998046875,
+      576.1199951171875,
+      45.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "to lease all or part of the Property on the terms stated in Paragraph 3 or on any other terms  (3) Landlord grants or agrees to grant to another person an option to lease all or part of the Property",
+    "original_name": "to lease all or part of the Property on the terms stated in Paragraph 3 or on any other terms"
+  },
+  {
+    "field_name": "page_number_cont_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      214.0800018310547,
+      175.79998779296875,
+      572.760009765625,
+      187.55999755859375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "(b) one-half of Broker’s fee at the time Landlord and a tenant execute a lease and the remainder",
+    "original_name": "undefined_23"
+  },
+  {
+    "field_name": "payment_option_a",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      72.0,
+      178.67999267578125,
+      81.83999633789062,
+      186.3599853515625
+    ],
+    "context_left": "",
+    "context_right": "(a) in one payment upon",
+    "context_above": "C.  Payable:",
+    "context_below": "",
+    "original_name": "a in one payment upon"
+  },
+  {
+    "field_name": "payment_option_b",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      72.0,
+      201.5999755859375,
+      81.83999633789062,
+      209.280029296875
+    ],
+    "context_left": "",
+    "context_right": "(b) one-half of Broker’s fee at the time Landlord and a tenant execute a lease and the remainder  on the date the lease commences.",
+    "context_above": "(a) in one payment upon    ",
+    "context_below": "",
+    "original_name": "b onehalf of Brokers fee at the time Landlord and a tenant execute a lease and the remainder"
+  },
+  {
+    "field_name": "payment_option_c",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      72.0,
+      237.239990234375,
+      81.83999633789062,
+      244.91998291015625
+    ],
+    "context_left": "",
+    "context_right": "(c)",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "c"
+  },
+  {
+    "field_name": "payment_schedule_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      108.0,
+      234.3599853515625,
+      576.1199951171875,
+      246.1199951171875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(b) one-half of Broker’s fee at the time Landlord and a tenant execute a lease and the remainder",
+    "context_below": "",
+    "original_name": "on the date the lease commences 1"
+  },
+  {
+    "field_name": "payment_schedule_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      108.0,
+      247.08001708984375,
+      576.1199951171875,
+      258.84002685546875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(b) one-half of Broker’s fee at the time Landlord and a tenant execute a lease and the remainder",
+    "context_below": "",
+    "original_name": "on the date the lease commences 2"
+  },
+  {
+    "field_name": "payment_schedule_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      108.0,
+      259.79998779296875,
+      576.1199951171875,
+      271.55999755859375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "on the date the lease commences 3"
+  },
+  {
+    "field_name": "breach_conditions",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      108.0,
+      272.52001953125,
+      568.0800170898438,
+      284.2799987792969
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "(2) If Landlord breaches this Listing or refuses to lease the Property to a prospective tenant after  Broker’s fees have been earned, Broker’s fees are immediately payable in full.",
+    "original_name": "2 If Landlord breaches this Listing or refuses to lease the Property to a prospective tenant after"
+  },
+  {
+    "field_name": "renewal_fees_section",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      54.0,
+      356.8800048828125,
+      63.84000015258789,
+      364.55999755859375
+    ],
+    "context_left": "",
+    "context_right": "(1) Renewal Fees:",
+    "context_above": "D.  Other Fees:",
+    "context_below": "",
+    "original_name": "1 Renewal Fees"
+  },
+  {
+    "field_name": "renewal_broker_tenants",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      72.0,
+      379.79998779296875,
+      81.83999633789062,
+      387.4800109863281
+    ],
+    "context_left": "",
+    "context_right": "(a) Tenants Procured by Broker:  If, during this Listing or after it ends, Landlord extends, renews,  or expands a lease with a tenant procured by Broker, either individually or in cooperation with",
+    "context_above": "(1) Renewal Fees:         D.  Other Fees:",
+    "context_below": "",
+    "original_name": "a Tenants Procured by Broker  If during this Listing or after it ends Landlord extends renews"
+  },
+  {
+    "field_name": "renewal_existing_tenants",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      72.0,
+      560.52001953125,
+      81.83999633789062,
+      568.2000122070312
+    ],
+    "context_left": "",
+    "context_right": "(b) Existing Tenants: If, during this Listing, Landlord extends, renews, or expands a lease with a  tenant who is occupying all or part of the Property on the date this Listing begins, Landlord will",
+    "context_above": "(3)      ",
+    "context_below": "",
+    "original_name": "b Existing Tenants If during this Listing Landlord extends renews or expands a lease with a"
+  },
+  {
+    "field_name": "renewal_percentage_items",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      126.0,
+      425.2799987792969,
+      180.0,
+      437.0400085449219
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "reimbursements based on initial amounts  ",
+    "original_name": "same percentage of the following items to be paid over the same term"
+  },
+  {
+    "field_name": "renewal_item_1",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      90.0,
+      428.1600036621094,
+      99.83999633789062,
+      435.8399963378906
+    ],
+    "context_left": "",
+    "context_right": "(1)    same percentage of the following items to be paid over the same term:",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "1_4"
+  },
+  {
+    "field_name": "renewal_item_2",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      90.12000274658203,
+      476.5199890136719,
+      99.95999908447266,
+      484.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "(2)   percentage",
+    "context_above": "(1)      ",
+    "context_below": "",
+    "original_name": "2_4"
+  },
+  {
+    "field_name": "renewal_item_3",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      90.0,
+      524.8800048828125,
+      99.83999633789062,
+      532.5599975585938
+    ],
+    "context_left": "",
+    "context_right": "(3)",
+    "context_above": "percentage  of          (2)     ",
+    "context_below": "",
+    "original_name": "3"
+  },
+  {
+    "field_name": "renewal_expense_1",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      513.5999755859375,
+      440.8800048828125,
+      523.4400024414062,
+      448.55999755859375
+    ],
+    "context_left": "same percentage of the following items to be paid over the same term:",
+    "context_right": "expense        ;",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "expense"
+  },
+  {
+    "field_name": "renewal_reimbursements_1",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      330.3599853515625,
+      453.6000061035156,
+      340.20001220703125,
+      461.2799987792969
+    ],
+    "context_left": "reimbursements based on initial amounts",
+    "context_right": "",
+    "context_above": "same percentage of the following items to be paid over the same term:   % of all base rents to be paid over the term of the renewal or extension and the  another broker, Landlord will pay Broker an additional fee of:",
+    "context_below": "% of all base rents to be paid over the term of the expansion and the same  following  items  to  be",
+    "original_name": "reimbursements based on initial amounts"
+  },
+  {
+    "field_name": "expansion_rent_percentage",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      343.32000732421875,
+      450.7200012207031,
+      558.719970703125,
+      462.4800109863281
+    ],
+    "context_left": " reimbursements based on initial amounts",
+    "context_right": "",
+    "context_above": "% of all base rents to be paid over the term of the renewal or extension and the",
+    "context_below": "% of all base rents to be paid over the term of the expansion and the same    paid  over  the",
+    "original_name": "of all base rents to be paid over the term of the expansion and the same"
+  },
+  {
+    "field_name": "expansion_percentage",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      124.31999969482422,
+      473.6400146484375,
+      180.0,
+      485.3999938964844
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "reimbursements based on initial amounts        (1)      ",
+    "context_below": "percentage  of  the  reimbursements based on initial amounts  ",
+    "original_name": "percentage of"
+  },
+  {
+    "field_name": "renewal_expense_2",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      513.5999755859375,
+      489.239990234375,
+      523.4400024414062,
+      496.9200134277344
+    ],
+    "context_left": "term:    same",
+    "context_right": "expense  ; or",
+    "context_above": ";   expense  ",
+    "context_below": "",
+    "original_name": "expense_2"
+  },
+  {
+    "field_name": "renewal_reimbursements_2",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      328.67999267578125,
+      501.9599914550781,
+      338.5199890136719,
+      509.6400146484375
+    ],
+    "context_left": "reimbursements based on initial amounts  to  items  following",
+    "context_right": "paid    over    the",
+    "context_above": "be  % of all base rents to be paid over the term of the expansion and the same           ",
+    "context_below": "",
+    "original_name": "reimbursements based on initial amounts_2"
+  },
+  {
+    "field_name": "renewal_additional_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      124.68000030517578,
+      522.0,
+      576.1199951171875,
+      533.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": " following  items  to  be  paid",
+    "context_below": "",
+    "original_name": "undefined_24"
+  },
+  {
+    "field_name": "renewal_additional_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      126.0,
+      534.719970703125,
+      536.760009765625,
+      546.47998046875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": " following  items  to  be  paid  over",
+    "context_below": "(b) Existing Tenants: If, during this Listing, Landlord extends, renews, or expands a lease with a  tenant who is occupying all or part of the Property on the date this Listing begins, Landlord will",
+    "original_name": "undefined_25"
+  },
+  {
+    "field_name": "renewal_percentage_items_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      124.31999969482422,
+      605.760009765625,
+      183.1199951171875,
+      617.52001953125
+    ],
+    "context_left": "(1)    ",
+    "context_right": "",
+    "context_above": "pay Broker an additional fee of:      ",
+    "context_below": "reimbursements based on initial amounts",
+    "original_name": "same percentage of the following items to be paid over the same term_2"
+  },
+  {
+    "field_name": "renewal_item_4",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      90.12000274658203,
+      608.8800048828125,
+      99.95999908447266,
+      616.5599975585938
+    ],
+    "context_left": "",
+    "context_right": "(1)     same percentage of the following items to be paid over the same term:",
+    "context_above": "pay Broker an additional fee of:        ",
+    "context_below": "",
+    "original_name": "1_5"
+  },
+  {
+    "field_name": "renewal_item_5",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      90.12000274658203,
+      680.1600341796875,
+      99.95999908447266,
+      687.8399658203125
+    ],
+    "context_left": "",
+    "context_right": "(2)   percentage",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "2_5"
+  },
+  {
+    "field_name": "renewal_expense_3",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      513.5999755859375,
+      621.5999755859375,
+      523.4400024414062,
+      629.280029296875
+    ],
+    "context_left": "same percentage of the following items to be paid over the same term:",
+    "context_right": "expense",
+    "context_above": "",
+    "context_below": ";",
+    "original_name": "expense_3"
+  },
+  {
+    "field_name": "renewal_additional_3",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      328.67999267578125,
+      634.3200073242188,
+      338.5199890136719,
+      642.0
+    ],
+    "context_left": "reimbursements based on initial amounts",
+    "context_right": "",
+    "context_above": "same percentage of the following items to be paid over the same term:    % of all base rents to be paid over the term of the renewal or extension and the",
+    "context_below": "% of all base rents to be paid over the term of the expansion and the same",
+    "original_name": "undefined_26"
+  },
+  {
+    "field_name": "renewal_additional_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      341.6400146484375,
+      631.4400024414062,
+      576.1199951171875,
+      643.2000122070312
+    ],
+    "context_left": " reimbursements based on initial amounts",
+    "context_right": "",
+    "context_above": "% of all base rents to be paid over the term of the renewal or extension and the",
+    "context_below": "",
+    "original_name": "undefined_27"
+  },
+  {
+    "field_name": "renewal_reimbursements_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      124.31999969482422,
+      644.1600341796875,
+      571.3200073242188,
+      655.9199829101562
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "same percentage of the following items to be paid over the same term:    % of all base rents to be paid over the term of the renewal or extension and the",
+    "context_below": "% of all base rents to be paid over the term of the expansion and the same  following  items  to  be",
+    "original_name": "reimbursements based on initial amounts_3"
+  },
+  {
+    "field_name": "renewal_percentage_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      124.31999969482422,
+      677.280029296875,
+      180.0,
+      689.0399780273438
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "reimbursements based on initial amounts",
+    "context_below": "percentage  of  the  reimbursements based on initial amounts",
+    "original_name": "percentage of_2"
+  },
+  {
+    "field_name": "renewal_items_description",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      328.67999267578125,
+      705.5999755859375,
+      338.5199890136719,
+      713.280029296875
+    ],
+    "context_left": "reimbursements based on initial amounts  to    items    following",
+    "context_right": "paid      over",
+    "context_above": "be  % of all base rents to be paid over the term of the expansion and the same",
+    "context_below": "Initialed for Identification by Landlord ________, ________ and Broker/Associate ________ Page 3 of 10",
+    "original_name": "the following items to be paid over the same term"
+  },
+  {
+    "field_name": "renewal_expense_4",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      513.5999755859375,
+      692.8800048828125,
+      523.4400024414062,
+      700.5599975585938
+    ],
+    "context_left": "term:    same",
+    "context_right": "expense",
+    "context_above": ";",
+    "context_below": "; or",
+    "original_name": "expense_4"
+  },
+  {
+    "field_name": "renewal_reimbursements_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      124.31999969482422,
+      715.4400024414062,
+      558.719970703125,
+      727.2000122070312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "following  items  to  be  paid  over  the  % of all base rents to be paid over the term of the expansion and the same",
+    "context_below": "Initialed for Identification by Landlord ________, ________ and Broker/Associate ________ Page 3 of 10",
+    "original_name": "reimbursements based on initial amounts_4"
+  },
+  {
+    "field_name": "renewal_or_option",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      341.6400146484375,
+      702.719970703125,
+      576.1199951171875,
+      714.47998046875
+    ],
+    "context_left": " reimbursements based on initial amounts  to  items  following",
+    "context_right": "",
+    "context_above": "% of all base rents to be paid over the term of the expansion and the same",
+    "context_below": "",
+    "original_name": "or"
+  },
+  {
+    "field_name": "broker_header_info_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      294.239990234375,
+      743.4000244140625,
+      334.55999755859375,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "reimbursements based on initial amounts",
+    "context_below": "",
+    "original_name": "Texas Ally Real Estate Group 1301 S Interstate 35 314 Austin TX 78741  512 7632559  512 7632559_2"
+  },
+  {
+    "field_name": "page_number_linked_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      339.6000061035156,
+      743.4000244140625,
+      379.9200134277344,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_28"
+  },
+  {
+    "field_name": "broker_initials_linked_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      471.1199951171875,
+      743.4000244140625,
+      511.44000244140625,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "; or",
+    "context_below": "",
+    "original_name": "and BrokerAssociate_3"
+  },
+  {
+    "field_name": "property_address_linked_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      162.60000610351562,
+      33.47998046875,
+      576.1199951171875,
+      45.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Commercial Listing concerning_2"
+  },
+  {
+    "field_name": "additional_renewal_item",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      90.0,
+      69.239990234375,
+      99.83999633789062,
+      76.91998291015625
+    ],
+    "context_left": "",
+    "context_right": "(3)",
+    "context_above": "Commercial Listing concerning",
+    "context_below": "",
+    "original_name": "3_2"
+  },
+  {
+    "field_name": "page_number_cont_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      124.68000030517578,
+      66.3599853515625,
+      576.1199951171875,
+      78.1199951171875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_29"
+  },
+  {
+    "field_name": "renewals_definition",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      126.0,
+      79.08001708984375,
+      572.760009765625,
+      90.84002685546875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "In addition to their ordinary meanings, “extensions,” “renewals,” and “expansions” include new  leases for more, less, or different space in the building or complex in which the Property is located.   5D(1)(a)  and  (b)",
+    "original_name": "In addition to their ordinary meanings extensions renewals and expansions include new"
+  },
+  {
+    "field_name": "sale_fees_section",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      54.0,
+      165.96002197265625,
+      63.84000015258789,
+      173.6400146484375
+    ],
+    "context_left": "",
+    "context_right": "(2) Fees in Event of a Sale:",
+    "context_above": "The  fees  under",
+    "context_below": "       equal to",
+    "original_name": "2 Fees in Event of a Sale"
+  },
+  {
+    "field_name": "service_providers_section",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      54.0,
+      345.7200012207031,
+      63.84000015258789,
+      353.3999938964844
+    ],
+    "context_left": "",
+    "context_right": "(3) Service Providers:  If Broker refers Landlord or a prospective tenant to a service provider (e.g.,  mover, cable company, telecommunications provider, utility, or contractor) Broker may receive a",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "3 Service Providers"
+  },
+  {
+    "field_name": "other_fees_section",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      54.0,
+      405.8399963378906,
+      63.84000015258789,
+      413.5199890136719
+    ],
+    "context_left": "",
+    "context_right": "(4) Other Fees and/or Reimbursable Expenses:",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "4 Other Fees andor Reimbursable Expenses"
+  },
+  {
+    "field_name": "sale_fee_during_listing",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      72.0,
+      188.8800048828125,
+      81.83999633789062,
+      196.55999755859375
+    ],
+    "context_left": "",
+    "context_right": "(a) If, during this Listing, Landlord sells the Property, Landlord will pay Broker an additional fee  equal to",
+    "context_above": "(2) Fees in Event of a Sale:  ",
+    "context_below": "",
+    "original_name": "a If during this Listing Landlord sells the Property Landlord will pay Broker an additional fee"
+  },
+  {
+    "field_name": "sale_fee_to_tenant",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      72.0,
+      224.52001953125,
+      81.83999633789062,
+      232.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "(b) If Landlord sells the Property to a tenant procured by Broker not later than the time the tenant  vacates the Property, Landlord will pay Broker an additional fee equal to",
+    "context_above": "equal to         ",
+    "context_below": "price for the Property.",
+    "original_name": "b If Landlord sells the Property to a tenant procured by Broker not later than the time the tenant"
+  },
+  {
+    "field_name": "sale_fee_amount_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      150.47999572753906,
+      198.719970703125,
+      216.0,
+      210.47998046875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(2) Fees in Event of a Sale:",
+    "context_below": "price for the Property.",
+    "original_name": "equal to"
+  },
+  {
+    "field_name": "sale_fee_amount_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      462.6000061035156,
+      234.3599853515625,
+      504.0,
+      246.1199951171875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "vacates the Property Landlord will pay Broker an additional fee equal to"
+  },
+  {
+    "field_name": "additional_compensation_note",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      308.3999938964844,
+      402.9599914550781,
+      576.1199951171875,
+      414.7200012207031
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "5D3 is in addition to any other compensation Broker may receive under this Listing"
+  },
+  {
+    "field_name": "other_fees_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      90.0,
+      415.67999267578125,
+      576.1199951171875,
+      427.44000244140625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "5D(3) is in addition to any other compensation Broker may receive under this Listing.  fee from the service provider for the referral.  Any referral fee Broker receives under this Paragraph",
+    "context_below": "",
+    "original_name": "1_6"
+  },
+  {
+    "field_name": "other_fees_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      90.0,
+      428.3999938964844,
+      576.1199951171875,
+      440.1600036621094
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "5D(3) is in addition to any other compensation Broker may receive under this Listing.",
+    "context_below": "",
+    "original_name": "2_6"
+  },
+  {
+    "field_name": "protection_period_section",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      90.0,
+      441.1199951171875,
+      572.760009765625,
+      452.8800048828125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "(1) “Protection period” means that time starting the day after this Listing ends and continuing for",
+    "original_name": "E Protection Period"
+  },
+  {
+    "field_name": "protection_period_duration",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      543.3599853515625,
+      486.0,
+      576.1199951171875,
+      497.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": ".",
+    "context_below": "",
+    "original_name": "1 Protection period means that time starting the day after this Listing ends and continuing for"
+  },
+  {
+    "field_name": "payment_county",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      386.8800048828125,
+      651.1199951171875,
+      496.20001220703125,
+      662.8800048828125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "F County All amounts payable to Broker are to be paid in cash in"
+  },
+  {
+    "field_name": "landlord_initials_linked_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      294.239990234375,
+      743.4000244140625,
+      334.55999755859375,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Initialed for Identification by Landlord_2"
+  },
+  {
+    "field_name": "landlord_initials_cont_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      339.6000061035156,
+      743.4000244140625,
+      379.9200134277344,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_30"
+  },
+  {
+    "field_name": "broker_initials_linked_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 3,
+    "position": [
+      471.1199951171875,
+      743.4000244140625,
+      511.44000244140625,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and BrokerAssociate_4"
+  },
+  {
+    "field_name": "property_address_linked_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      162.60000610351562,
+      33.47998046875,
+      576.1199951171875,
+      45.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Under a prior listing agreement Landlord is obligated to pay another Texas licensed broker a fee if",
+    "original_name": "Commercial Listing concerning_3"
+  },
+  {
+    "field_name": "protection_trigger_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      350.3999938964844,
+      92.280029296875,
+      510.3599853515625,
+      104.03997802734375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Landlord leases or sells all or part of the Property before 1"
+  },
+  {
+    "field_name": "protection_trigger_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      72.0,
+      117.719970703125,
+      576.1199951171875,
+      129.47998046875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Under a prior listing agreement Landlord is obligated to pay another Texas licensed broker a fee if",
+    "context_below": "",
+    "original_name": "Landlord leases or sells all or part of the Property before 2"
+  },
+  {
+    "field_name": "protected_persons_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      163.44000244140625,
+      105.0,
+      576.1199951171875,
+      116.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Under a prior listing agreement Landlord is obligated to pay another Texas licensed broker a fee if",
+    "context_below": "",
+    "original_name": "following persons 1"
+  },
+  {
+    "field_name": "protected_persons_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      72.0,
+      130.44000244140625,
+      472.67999267578125,
+      142.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Landlord leases or sells all or part of the Property before     Under a prior listing agreement Landlord is obligated to pay another Texas licensed broker a fee if",
+    "context_below": "If Landlord enters into a contract to lease or sell all or part of the Property to a named exclusion before  the date specified in Paragraph 6A, Landlord will not be obligated to pay Broker the fees under  Paragraph 5 of this Listing, but Landlord will pay Broker, upon the closing of the sale or upon execution",
+    "original_name": "following persons 2"
+  },
+  {
+    "field_name": "protection_compensation_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      90.0,
+      213.47998046875,
+      120.4800033569336,
+      225.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "of the lease, a fee equal to:",
+    "context_below": "(2)     reimbursements, and",
+    "original_name": "1_7"
+  },
+  {
+    "field_name": "protection_compensation_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      88.68000030517578,
+      235.44000244140625,
+      120.4800033569336,
+      247.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(1)     of the lease, a fee equal to:",
+    "context_below": " reimbursements, and",
+    "original_name": "2_7"
+  },
+  {
+    "field_name": "protection_expense",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      520.3200073242188,
+      251.03997802734375,
+      530.1599731445312,
+      258.719970703125
+    ],
+    "context_left": "the same percentage of the following items to be paid over the term of the lease:",
+    "context_right": "; and",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "expense_5"
+  },
+  {
+    "field_name": "protection_reimbursements",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      196.9199981689453,
+      263.760009765625,
+      206.75999450683594,
+      271.44000244140625
+    ],
+    "context_left": "reimbursements, and",
+    "context_right": "",
+    "context_above": "% of the sales price if Landlord sells the Property;",
+    "context_below": "",
+    "original_name": "reimbursements and"
+  },
+  {
+    "field_name": "protection_and",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      209.8800048828125,
+      260.8800048828125,
+      549.3599853515625,
+      272.6400146484375
+    ],
+    "context_left": " reimbursements, and",
+    "context_right": "",
+    "context_above": "% of all base rents to be paid over the term of the lease if Landlord leases the Property and",
+    "context_below": "",
+    "original_name": "and"
+  },
+  {
+    "field_name": "protection_item_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      88.68000030517578,
+      282.8399963378906,
+      576.1199951171875,
+      294.6000061035156
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "the same percentage of the following items to be paid over the term of the lease:         % of all base rents to be paid over the term of the lease if Landlord leases the Property and",
+    "context_below": "",
+    "original_name": "3_3"
+  },
+  {
+    "field_name": "page_number_linked_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      90.0,
+      295.55999755859375,
+      571.2000122070312,
+      307.32000732421875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "the same percentage of the following items to be paid over the term of the lease:",
+    "context_below": "If Landlord agrees to lease or sell all or part of the Property to a named exclusion, Broker      will not    assist Landlord in negotiating and closing the transaction to the named exclusion.",
+    "original_name": "undefined_31"
+  },
+  {
+    "field_name": "intermediary_will_act",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      546.8400268554688,
+      321.3599853515625,
+      556.6799926757812,
+      329.0400085449219
+    ],
+    "context_left": "If Landlord agrees to lease or sell all or part of the Property to a named exclusion, Broker        will not    assist Landlord in negotiating and closing the transaction to the named exclusion.",
+    "context_right": "",
+    "context_above": ".",
+    "context_below": "",
+    "original_name": "will"
+  },
+  {
+    "field_name": "intermediary_will_not_act",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      72.0,
+      334.0799865722656,
+      81.83999633789062,
+      341.760009765625
+    ],
+    "context_left": "C.",
+    "context_right": "",
+    "context_above": "(3)",
+    "context_below": "7.  ACCESS TO THE PROPERTY:",
+    "original_name": "will not"
+  },
+  {
+    "field_name": "intermediary_status_section",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      36.0,
+      529.5599975585938,
+      45.84000015258789,
+      537.239990234375
+    ],
+    "context_left": "",
+    "context_right": "A.  Broker represents.  If a prospect who Broker represents offers to lease or buy the Property, Landlord  Intermediary Status:  Broker may show the Property to interested prospective tenants or buyers who",
+    "context_above": "9.  INTERMEDIARY:",
+    "context_below": "",
+    "original_name": "A Intermediary Status"
+  },
+  {
+    "field_name": "landlord_initials_linked_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      294.239990234375,
+      743.4000244140625,
+      334.55999755859375,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(b) appoint the associate servicing the Landlord under this Listing to the Landlord for the same",
+    "context_below": "",
+    "original_name": "Initialed for Identification by Landlord_3"
+  },
+  {
+    "field_name": "landlord_initials_cont_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      339.6000061035156,
+      743.4000244140625,
+      379.9200134277344,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "(b) appoint the associate servicing the Landlord under this Listing to the Landlord for the same",
+    "context_below": "",
+    "original_name": "undefined_32"
+  },
+  {
+    "field_name": "broker_initials_linked_5",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 4,
+    "position": [
+      471.1199951171875,
+      743.4000244140625,
+      511.44000244140625,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and BrokerAssociate_5"
+  },
+  {
+    "field_name": "property_address_linked_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 5,
+    "position": [
+      162.60000610351562,
+      16.44000244140625,
+      576.1199951171875,
+      45.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Broker  will  make  no  appointments",
+    "original_name": "Commercial Listing concerning_4"
+  },
+  {
+    "field_name": "section_b",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 5,
+    "position": [
+      36.0,
+      120.1199951171875,
+      45.84000015258789,
+      127.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "B.  Broker represents.  No Intermediary Status:  Landlord agrees that Broker will not show the Property to prospects who",
+    "context_above": "",
+    "context_below": "Notice:",
+    "original_name": "B"
+  },
+  {
+    "field_name": "landlord_initials_linked_5",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 5,
+    "position": [
+      294.239990234375,
+      726.3599853515625,
+      334.55999755859375,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "transaction, such as title companies and lenders, may receive, view, and input information); and typically  an  Internet-based  system  where  (7) place information about this Listing and a transaction for the Property on an electronic platform (an  and any listing services into which information about the Property is placed;",
+    "context_below": "",
+    "original_name": "Initialed for Identification by Landlord_4"
+  },
+  {
+    "field_name": "landlord_initials_cont_5",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 5,
+    "position": [
+      339.6000061035156,
+      726.3599853515625,
+      379.9200134277344,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "transaction, such as title companies and lenders, may receive, view, and input information); and an  Internet-based  system  where  (7) place information about this Listing and a transaction for the Property on an electronic platform (an  and any listing services into which information about the Property is placed;",
+    "context_below": "",
+    "original_name": "undefined_33"
+  },
+  {
+    "field_name": "broker_initials_linked_6",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 5,
+    "position": [
+      471.1199951171875,
+      726.3599853515625,
+      511.44000244140625,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "where  professionals  related  to  the",
+    "context_below": "",
+    "original_name": "and BrokerAssociate_6"
+  },
+  {
+    "field_name": "property_address_linked_5",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 6,
+    "position": [
+      162.60000610351562,
+      16.44000244140625,
+      576.1199951171875,
+      45.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "(8) advertise that Broker “leased” or “sold” the Property after the execution of a lease or closing of a",
+    "original_name": "Commercial Listing concerning_5"
+  },
+  {
+    "field_name": "property_condition_health",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 6,
+    "position": [
+      54.0,
+      475.0799865722656,
+      63.84000015258789,
+      482.760009765625
+    ],
+    "context_left": "",
+    "context_right": "(1) Landlord is not aware of any condition on the Property that would materially affect the health or  safety of an ordinary tenant, except as stated in the attached Commercial Property Condition",
+    "context_above": "B.",
+    "context_below": "Statement",
+    "original_name": "1 Landlord is not aware of any condition on the Property that would materially affect the health or"
+  },
+  {
+    "field_name": "property_condition_other",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 6,
+    "position": [
+      54.0,
+      536.1600341796875,
+      63.84000015258789,
+      543.8399658203125
+    ],
+    "context_left": "",
+    "context_right": "(2) Except as otherwise provided in this Listing, Landlord is not aware of:  (a) any subsurface: structures, pits, wastes, springs, or improvements;",
+    "context_above": "Statement",
+    "context_below": "",
+    "original_name": "2 Except as otherwise provided in this Listing Landlord is not aware of"
+  },
+  {
+    "field_name": "landlord_initials_linked_6",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 6,
+    "position": [
+      294.239990234375,
+      726.3599853515625,
+      334.55999755859375,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "any condition on the Property that violates any law or ordinance; and  and detrimentally affect the ordinary use of the Property;  any contemplated material changes to the Property or surrounding area that would materially  (h) any present or past infestation of wood-destroying insects in the Property’s improvements;",
+    "context_below": "",
+    "original_name": "Initialed for Identification by Landlord_5"
+  },
+  {
+    "field_name": "landlord_initials_cont_6",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 6,
+    "position": [
+      339.6000061035156,
+      726.3599853515625,
+      379.9200134277344,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "any condition on the Property that violates any law or ordinance; and  any contemplated material changes to the Property or surrounding area that would materially  (h) any present or past infestation of wood-destroying insects in the Property’s improvements;",
+    "context_below": "",
+    "original_name": "undefined_34"
+  },
+  {
+    "field_name": "broker_initials_linked_7",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 6,
+    "position": [
+      471.1199951171875,
+      726.3599853515625,
+      511.44000244140625,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and BrokerAssociate_7"
+  },
+  {
+    "field_name": "property_address_linked_6",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 7,
+    "position": [
+      162.60000610351562,
+      16.44000244140625,
+      576.1199951171875,
+      45.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "(k) any condition on the Property that would affect the health or safety of an ordinary tenant.",
+    "original_name": "Commercial Listing concerning_6"
+  },
+  {
+    "field_name": "landlord_initials_linked_7",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 7,
+    "position": [
+      294.239990234375,
+      726.3599853515625,
+      334.55999755859375,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Initialed for Identification by Landlord_6"
+  },
+  {
+    "field_name": "landlord_initials_cont_7",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 7,
+    "position": [
+      339.6000061035156,
+      726.3599853515625,
+      379.9200134277344,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_35"
+  },
+  {
+    "field_name": "broker_initials_linked_8",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 7,
+    "position": [
+      471.1199951171875,
+      726.3599853515625,
+      511.44000244140625,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and BrokerAssociate_8"
+  },
+  {
+    "field_name": "property_address_linked_7",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      162.60000610351562,
+      33.47998046875,
+      576.1199951171875,
+      45.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Commercial Listing concerning_7"
+  },
+  {
+    "field_name": "addendum_property_description",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      54.0,
+      369.9599914550781,
+      63.84000015258789,
+      377.6400146484375
+    ],
+    "context_left": "",
+    "context_right": "B.  A.  Property Description Exhibit identified in Paragraph 2  Condominium Addendum to Listing (TXR-1401)",
+    "context_above": " 19. ADDENDA:   fees.",
+    "context_below": "   C.     D.  ",
+    "original_name": "B Property Description Exhibit identified in Paragraph 2"
+  },
+  {
+    "field_name": "addendum_condominium",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      54.0,
+      382.67999267578125,
+      63.84000015258789,
+      390.3599853515625
+    ],
+    "context_left": "",
+    "context_right": "B.  Property Description Exhibit identified in Paragraph 2  Condominium Addendum to Listing (TXR-1401)  Commercial Property Condition Statement (TXR-1408)",
+    "context_above": "   A.   19. ADDENDA:",
+    "context_below": "   D.     E.  ",
+    "original_name": "C Condominium Addendum to Listing TXR1401"
+  },
+  {
+    "field_name": "addendum_property_condition",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      54.0,
+      395.3999938964844,
+      63.84000015258789,
+      403.0799865722656
+    ],
+    "context_left": "",
+    "context_right": "Condominium Addendum to Listing (TXR-1401)  Commercial Property Condition Statement (TXR-1408)  Information About On-Site Sewer Facility (TXR-1407)",
+    "context_above": "C.     B.     A.   19. ADDENDA:",
+    "context_below": "   E.     F.  ",
+    "original_name": "D Commercial Property Condition Statement TXR1408"
+  },
+  {
+    "field_name": "addendum_sewer_facility",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      54.0,
+      408.1199951171875,
+      63.84000015258789,
+      415.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "F.  Commercial Property Condition Statement (TXR-1408)  Information About On-Site Sewer Facility (TXR-1407)  Information about Special Flood Hazard Areas (TXR-1414)",
+    "context_above": "D.     C.     B.     A.",
+    "context_below": "    G.",
+    "original_name": "E Information About OnSite Sewer Facility TXR1407"
+  },
+  {
+    "field_name": "addendum_flood_hazard",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      54.0,
+      420.8399963378906,
+      63.84000015258789,
+      428.5199890136719
+    ],
+    "context_left": "",
+    "context_right": "F.    Information About On-Site Sewer Facility (TXR-1407)  Information about Special Flood Hazard Areas (TXR-1414)",
+    "context_above": "E.     D.     C.     B.",
+    "context_below": "   G.",
+    "original_name": "F Information about Special Flood Hazard Areas TXR1414"
+  },
+  {
+    "field_name": "addendum_g",
+    "field_type": "CheckBox",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      54.0,
+      433.55999755859375,
+      63.84000015258789,
+      441.239990234375
+    ],
+    "context_left": "",
+    "context_right": "F.      Information about Special Flood Hazard Areas (TXR-1414)",
+    "context_above": "   E.     D.     C.",
+    "context_below": "20. AGREEMENT OF THE PARTIES:",
+    "original_name": "G"
+  },
+  {
+    "field_name": "addendum_other",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      90.0,
+      430.67999267578125,
+      576.1199951171875,
+      442.44000244140625
+    ],
+    "context_left": "G.    F.   ",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "undefined_36"
+  },
+  {
+    "field_name": "agreement_section",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      90.0,
+      443.3999938964844,
+      571.2000122070312,
+      455.1600036621094
+    ],
+    "context_left": "G.  ",
+    "context_right": "",
+    "context_above": "Information about Special Flood Hazard Areas (TXR-1414)",
+    "context_below": "Entire Agreement:  This Listing is the entire agreement of the parties and may not be changed except",
+    "original_name": "20 AGREEMENT OF THE PARTIES"
+  },
+  {
+    "field_name": "landlord_initials_linked_8",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      294.239990234375,
+      743.4000244140625,
+      334.55999755859375,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "ends, this Listing will continue for the remaining part of the Property through the term of this Listing.  Partial Leases or Sales: If Landlord leases or sells part of the Property before the date this Listing",
+    "context_below": "",
+    "original_name": "Initialed for Identification by Landlord_7"
+  },
+  {
+    "field_name": "landlord_initials_cont_8",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      339.6000061035156,
+      743.4000244140625,
+      379.9200134277344,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "ends, this Listing will continue for the remaining part of the Property through the term of this Listing.  Partial Leases or Sales: If Landlord leases or sells part of the Property before the date this Listing",
+    "context_below": "",
+    "original_name": "undefined_37"
+  },
+  {
+    "field_name": "broker_initials_linked_9",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 8,
+    "position": [
+      471.1199951171875,
+      743.4000244140625,
+      511.44000244140625,
+      755.1599731445312
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "and BrokerAssociate_9"
+  },
+  {
+    "field_name": "property_address_linked_8",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      162.60000610351562,
+      30.719970703125,
+      576.1199951171875,
+      45.239990234375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Notices:  Notices between the parties must be in writing and are effective when sent to the receiving",
+    "original_name": "Commercial Listing concerning_8"
+  },
+  {
+    "field_name": "landlord_signature_name_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      80.5199966430664,
+      269.760009765625,
+      288.9599914550781,
+      284.2799987792969
+    ],
+    "context_left": "Landlord",
+    "context_right": "Broker:",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Landlord 1_2"
+  },
+  {
+    "field_name": "landlord_signature_name_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      36.84000015258789,
+      285.6000061035156,
+      288.9599914550781,
+      300.1199951171875
+    ],
+    "context_left": "",
+    "context_right": "Broker:  Broker / Company Name:",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Landlord 2_2"
+  },
+  {
+    "field_name": "landlord_by_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      49.79999923706055,
+      313.67999267578125,
+      288.9599914550781,
+      328.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": ":",
+    "context_below": "By (signature):",
+    "original_name": "By"
+  },
+  {
+    "field_name": "landlord_signature_1",
+    "field_type": "Signature",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      113.63999938964844,
+      336.6000061035156,
+      288.9599914550781,
+      351.1199951171875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "By signature"
+  },
+  {
+    "field_name": "landlord_printed_name_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      115.19999694824219,
+      351.9599914550781,
+      288.9599914550781,
+      366.4800109863281
+    ],
+    "context_left": "",
+    "context_right": "By (signature):",
+    "context_above": "",
+    "context_below": "Date:",
+    "original_name": "Printed Name"
+  },
+  {
+    "field_name": "landlord_title_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      76.91999816894531,
+      367.32000732421875,
+      180.9600067138672,
+      381.8399963378906
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "By (signature):      By:",
+    "context_below": "By:",
+    "original_name": "Title"
+  },
+  {
+    "field_name": "landlord_date_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      207.47999572753906,
+      367.32000732421875,
+      288.1199951171875,
+      381.8399963378906
+    ],
+    "context_left": "",
+    "context_right": "Printed Name:",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Date"
+  },
+  {
+    "field_name": "landlord_by_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      49.79999923706055,
+      396.6000061035156,
+      288.9599914550781,
+      411.1199951171875
+    ],
+    "context_left": "",
+    "context_right": "Title:",
+    "context_above": "Date:     Printed Name:",
+    "context_below": "By (signature):",
+    "original_name": "By_2"
+  },
+  {
+    "field_name": "landlord_signature_2",
+    "field_type": "Signature",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      113.63999938964844,
+      419.5199890136719,
+      288.9599914550781,
+      434.0400085449219
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Date:",
+    "context_below": "",
+    "original_name": "By signature_2"
+  },
+  {
+    "field_name": "landlord_printed_name_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      115.19999694824219,
+      434.8800048828125,
+      288.9599914550781,
+      449.3999938964844
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Date:",
+    "original_name": "Printed Name_2"
+  },
+  {
+    "field_name": "landlord_title_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      76.91999816894531,
+      450.239990234375,
+      180.9600067138672,
+      464.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "By (signature):      By:",
+    "context_below": "",
+    "original_name": "Title_2"
+  },
+  {
+    "field_name": "landlord_date_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      207.47999572753906,
+      450.239990234375,
+      288.1199951171875,
+      464.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Date_2"
+  },
+  {
+    "field_name": "broker_company_name_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      422.3999938964844,
+      285.6000061035156,
+      570.0,
+      300.1199951171875
+    ],
+    "context_left": "Broker:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Broker  Company Name 1"
+  },
+  {
+    "field_name": "broker_company_name_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      317.8800048828125,
+      300.9599914550781,
+      570.0,
+      315.4800109863281
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "License No.     By (signature):",
+    "original_name": "Broker  Company Name 2"
+  },
+  {
+    "field_name": "broker_license_number",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      514.7999877929688,
+      316.32000732421875,
+      570.0,
+      330.8399963378906
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "License No"
+  },
+  {
+    "field_name": "broker_signature",
+    "field_type": "Signature",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      397.20001220703125,
+      347.0400085449219,
+      570.0,
+      361.55999755859375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "License No.",
+    "context_below": "",
+    "original_name": "By signature_3"
+  },
+  {
+    "field_name": "broker_printed_name",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      396.239990234375,
+      362.3999938964844,
+      570.0,
+      376.9200134277344
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "License No.",
+    "context_below": "License No.",
+    "original_name": "Printed Name_3"
+  },
+  {
+    "field_name": "broker_title",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      357.9599914550781,
+      377.760009765625,
+      462.0,
+      392.2799987792969
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "By (signature):",
+    "context_below": "Date:",
+    "original_name": "Title_3"
+  },
+  {
+    "field_name": "broker_associate_license_number",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      514.7999877929688,
+      377.760009765625,
+      570.0,
+      392.2799987792969
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Date:",
+    "original_name": "License No_2"
+  },
+  {
+    "field_name": "broker_date",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 9,
+    "position": [
+      488.5199890136719,
+      393.1199951171875,
+      570.0,
+      407.6400146484375
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "Date_3"
+  }
+]
