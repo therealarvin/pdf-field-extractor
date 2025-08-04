@@ -28,7 +28,7 @@ Analyze the extracted fields JSON and create a mapping file (`field_mapping_<doc
 ```json
 {
   "field_mappings": {
-    "original_field_name": "semantic_field_name",
+    "original_field_name": "iterative_field_name",
     ...
   },
   "metadata": {
@@ -41,11 +41,12 @@ Analyze the extracted fields JSON and create a mapping file (`field_mapping_<doc
 ```
 
 #### Naming Conventions:
-- Use descriptive, lowercase names with underscores
-- For same value fields across pages, use `_linked_` suffix with page number
-- For continuation fields, use `_cont` suffix
-- Group related fields with common prefixes (e.g., `tenant_`, `landlord_`, `property_`)
-- For checkbox/option fields, use descriptive names indicating the option
+- Use iterative naming based on field type:
+  - Text fields: `<form_name>_textfield_1`, `<form_name>_textfield_2`, etc.
+  - Checkboxes: `<form_name>_checkbox_1`, `<form_name>_checkbox_2`, etc.
+- Field type counters increment separately (textfields and checkboxes have their own numbering)
+- Replace `<form_name>` with the PDF document name (without extension)
+- All names should be lowercase with underscores
 
 ### 3. Apply the Mapping
 
@@ -95,3 +96,9 @@ python3 apply_field_mapping_fitz.py field_mapping.json residential_lease_unlocke
    - 16 fields mapped
    - Mapping file: `field_mapping_addendum_residential_leases.json`
    - Output: `addendum_regarding_residential_leases_mapped_20250720_204250.pdf`
+
+4. **third_party_financing_unrenamed.pdf** (2025-01-22)
+   - 63 fields mapped
+   - Mapping file: `field_mapping_third_party_financing.json`
+   - Output: `third_party_financing_unrenamed_mapped_20250721_192130.pdf`
+

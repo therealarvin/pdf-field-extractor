@@ -1,0 +1,1992 @@
+[
+  {
+    "group_type": "text_continuation",
+    "num_fields": 2,
+    "confidence": 1.0,
+    "reason": "User-created group",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_1",
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_2"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_3"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_4"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_5"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_6"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_7"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_8"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_9"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_10"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_11"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_12"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_13"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_14"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_15"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_16"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_17"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_18"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_19"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_20"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_21"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_22"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_23"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_24"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_25"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_26"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_27"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_28"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_29"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_30"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_31"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_32"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_33"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_34"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_35"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_36"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_2"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_3"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_37"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_38"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_39"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_41"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_43"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_45"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_47"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_49"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_51"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_4"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_5"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_6"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_52"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_53"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_54"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_55"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_56"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_57"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_56"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_55"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_54"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_53"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_52"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_51"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_58"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_7"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_8"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_9"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_59"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_60"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_61"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_10"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_11"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_62"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_63"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_64"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_65"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_66"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_67"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_68"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_69"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_70"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_71"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_12"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_13"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_14"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_15"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_72"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_73"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_74"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_75"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_76"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_77"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_78"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_79"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_16"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_17"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_18"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_80"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_81"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_82"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_83"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_19"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_86"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_87"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_88"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1010"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1011"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_89"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_20"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_21"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_90"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_22"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_23"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_91"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_92"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_93"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_94"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_9500"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_96"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_97"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_98"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_99"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_100"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_101"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_102"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_103"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_95"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_104"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_105"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_106"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_107"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_108"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_24"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_25"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_26"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_27"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_28"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_29"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_30"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_31"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_32"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_111"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_33"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_34"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_112"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_113"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_114"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_35"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_36"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_115"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_116"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_37"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_38"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_117"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_118"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_120"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_122"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_124"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_125"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_126"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_127"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_128"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_129"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_130"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_49"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_50"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_48"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_57"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_59"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_58"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_131"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_132"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_133"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_134"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_135"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_136"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_137"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_138"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_39"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_40"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_41"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_140"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_42"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_43"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_44"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_142"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_144"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_145"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_146"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_147"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_148"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_149"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_151"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_153"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_155"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_156"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_157"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_158"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_159"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_160"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1005"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1001"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1002"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1003"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1004"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1007"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1006"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_161"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_162"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_163"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_164"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_46"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_47"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_165"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_166"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_167"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_168"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_169"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_170"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_171"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_172"
+    ]
+  },
+  {
+    "group_type": "individual",
+    "num_fields": 1,
+    "confidence": 1.0,
+    "reason": "Not grouped in GUI",
+    "field_names": [
+      "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_173"
+    ]
+  }
+]

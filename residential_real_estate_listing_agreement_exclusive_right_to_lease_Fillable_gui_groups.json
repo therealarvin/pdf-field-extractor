@@ -1,0 +1,1746 @@
+[
+  {
+    "group_type": "text_continuation",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_1",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          107.76000213623047,
+          168.3599853515625,
+          576.3599853515625,
+          179.760009765625
+        ],
+        "context_left": "Landlord:",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "Mobile:"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_2",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          107.76000213623047,
+          180.3599853515625,
+          576.3599853515625,
+          191.760009765625
+        ],
+        "context_left": "Landlord:",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "Mobile:"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "text_continuation",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_8",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          89.76000213623047,
+          248.4000244140625,
+          576.3599853515625,
+          259.79998779296875
+        ],
+        "context_left": "Broker:",
+        "context_right": "",
+        "context_above": "Mobile:",
+        "context_below": "Mobile:"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_9",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          89.76000213623047,
+          260.4000244140625,
+          576.3599853515625,
+          271.79998779296875
+        ],
+        "context_left": "Broker:",
+        "context_right": "",
+        "context_above": "Mobile:",
+        "context_below": "Mobile:"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "text_continuation",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_15",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          394.67999267578125,
+          392.3999938964844,
+          576.3599853515625,
+          403.79998779296875
+        ],
+        "context_left": ",  Addition,Cityof",
+        "context_right": "",
+        "context_above": "improvements, its fixtures, and the non-real",
+        "context_below": ",  (address/zip code), .(IfPropertyisacondominium,attachCondominiumAddendum.)"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_17",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          71.76000213623047,
+          404.3999938964844,
+          247.9199981689453,
+          415.79998779296875
+        ],
+        "context_left": "A.",
+        "context_right": ", Block  County,Texasknownas",
+        "context_above": "Land:Lot estateitemsdescribedbelow,exceptforanyexclusionsdescribedbelow. PROPERTY: \u201cProperty\u201d means the land",
+        "context_below": "in orasdescribedonattachedexhibit"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "text_continuation",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_23",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          474.4800109863281,
+          472.32000732421875,
+          576.3599853515625,
+          483.7200012207031
+        ],
+        "context_left": "Propertywithallitsfixturesandimprovementsandthefollowingnon-realestateitems: Landlord",
+        "context_right": "",
+        "context_above": "instructs Broker to market the  (address/zip code),",
+        "context_below": "."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_24",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          71.76000213623047,
+          484.32000732421875,
+          576.3599853515625,
+          495.7200012207031
+        ],
+        "context_left": "",
+        "context_right": "",
+        "context_above": "Propertywithallitsfixturesandimprovementsandthefollowingnon-realestateitems: for items excluded in Paragraph 2C, Landlord .(IfPropertyisacondominium,attachCondominiumAddendum.)",
+        "context_below": ""
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "text_continuation",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_25",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          291.239990234375,
+          516.3599853515625,
+          576.3599853515625,
+          527.760009765625
+        ],
+        "context_left": "Exclusions:Landlordwillremovethefollowing:",
+        "context_right": "",
+        "context_above": "",
+        "context_below": ""
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_26",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          71.76000213623047,
+          528.3599853515625,
+          576.3599853515625,
+          539.760009765625
+        ],
+        "context_left": "C.",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "LandlordinstructsBrokertomarkettheProperty:"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_27",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 0,
+        "position": [
+          71.76000213623047,
+          540.3599853515625,
+          566.280029296875,
+          551.760009765625
+        ],
+        "context_left": "",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "LandlordinstructsBrokertomarkettheProperty:  (ListingPrice);and"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          89.87999725341797,
+          209.280029296875,
+          99.5999984741211,
+          221.280029296875
+        ],
+        "context_left": "",
+        "context_right": "(a)",
+        "context_above": "(1) Completeboth(1)and(2) This Paragraph 5A includes",
+        "context_below": "(b) (c)"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_2",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          89.87999725341797,
+          226.20001220703125,
+          99.5999984741211,
+          238.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "(b)",
+        "context_above": "(a) (1) Completeboth(1)and(2)",
+        "context_below": "(c) If Broker does not"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_3",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          89.87999725341797,
+          243.239990234375,
+          99.5999984741211,
+          255.239990234375
+        ],
+        "context_left": "",
+        "context_right": "(c)",
+        "context_above": "(b) (a) (1)",
+        "context_below": "If Broker does not pay"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_53",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 1,
+        "position": [
+          107.95999908447266,
+          368.2959899902344,
+          117.25399780273438,
+          379.7149963378906
+        ],
+        "context_left": "(b)",
+        "context_right": "Aflatfeeof$  %ofallrentstobepaidunderalease",
+        "context_above": "(a) iftheotherbrokerrepresentsthetenant",
+        "context_below": "iftheotherbrokerisasubagent Aflatfeeof$"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_52",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          108.00499725341797,
+          356.2139892578125,
+          117.29900360107422,
+          367.6340026855469
+        ],
+        "context_left": "",
+        "context_right": "Aflatfeeof$  %ofonemonth'srenttobepaidunderalease  %ofallrentstobepaidunderalease",
+        "context_above": "(a) iftheotherbrokerrepresentsthetenant A(1):",
+        "context_below": "(b) iftheotherbrokerisasubagent"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_51",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          108.00499725341797,
+          344.2130126953125,
+          117.29900360107422,
+          355.63299560546875
+        ],
+        "context_left": "(a)",
+        "context_right": "%ofonemonth'srenttobepaidunderalease  %ofallrentstobepaidunderalease",
+        "context_above": "iftheotherbrokerrepresentsthetenant A(1): pay and Broker will pay",
+        "context_below": "Aflatfeeof$ (b) iftheotherbrokerisasubagent"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_56",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          107.98500061035156,
+          416.52099609375,
+          117.27999877929688,
+          427.9410095214844
+        ],
+        "context_left": "",
+        "context_right": "Aflatfeeof$  %ofallrentstobepaidunderalease",
+        "context_above": "(b) iftheotherbrokerisasubagent Aflatfeeof$",
+        "context_below": "(3) Landlord authorizes Broker 5A(2)."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_55",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          108.02999877929688,
+          404.44000244140625,
+          117.32499694824219,
+          415.8599853515625
+        ],
+        "context_left": "",
+        "context_right": "Aflatfeeof$  %ofonemonth'srenttobepaidunderalease  %ofallrentstobepaidunderalease",
+        "context_above": "(b) iftheotherbrokerisasubagent Aflatfeeof$",
+        "context_below": "(3) Landlord authorizes Broker 5A(2)."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_54",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          108.02999877929688,
+          392.4389953613281,
+          117.32499694824219,
+          403.8590087890625
+        ],
+        "context_left": "(b)",
+        "context_right": "%ofonemonth'srenttobepaidunderalease  %ofallrentstobepaidunderalease",
+        "context_above": "iftheotherbrokerisasubagent Aflatfeeof$",
+        "context_below": "Aflatfeeof$ (3) Landlord authorizes Broker"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_4",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          89.87999725341797,
+          566.280029296875,
+          99.5999984741211,
+          578.280029296875
+        ],
+        "context_left": "",
+        "context_right": "(a)",
+        "context_above": "(1) Broker'sFee(withoutcompensationforotherbroker): B.",
+        "context_below": "(b) (c)"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_5",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 1,
+        "position": [
+          89.87999725341797,
+          583.2000122070312,
+          99.5999984741211,
+          595.2000122070312
+        ],
+        "context_left": "",
+        "context_right": "(b)",
+        "context_above": "(a) (1) Broker'sFee(withoutcompensationforotherbroker): B.",
+        "context_below": "(c) C."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_6",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 1,
+        "position": [
+          89.87999725341797,
+          600.239990234375,
+          99.5999984741211,
+          612.239990234375
+        ],
+        "context_left": "",
+        "context_right": "(c)",
+        "context_above": "(b) (a) (1)",
+        "context_below": "C. (1) Landlord agrees to"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_7",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 2,
+        "position": [
+          71.87999725341797,
+          204.239990234375,
+          81.5999984741211,
+          216.239990234375
+        ],
+        "context_left": "",
+        "context_right": "amountdescribedbelow.ThisParagraph5E(1)survivesterminationofthisListing. (a) (b)",
+        "context_above": "procured under this (1) Compensation for",
+        "context_below": "(c) CompensationforaSale: (2)"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_8",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 2,
+        "position": [
+          71.87999725341797,
+          217.20001220703125,
+          81.5999984741211,
+          229.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "(a) (b) (c)",
+        "context_above": "procured under this (1) Compensation for",
+        "context_below": "CompensationforaSale: (2)"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_9",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 2,
+        "position": [
+          71.87999725341797,
+          230.15997314453125,
+          81.5999984741211,
+          242.280029296875
+        ],
+        "context_left": "",
+        "context_right": "(b) (c)",
+        "context_above": "(a) procured under this",
+        "context_below": "CompensationforaSale: (2) (a) If Landlord"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_10",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 2,
+        "position": [
+          107.87999725341797,
+          308.2799987792969,
+          117.5999984741211,
+          320.2799987792969
+        ],
+        "context_left": "",
+        "context_right": "(ii) (i)",
+        "context_above": "thesalecloses,payBroker: under this Listing not (a) If Landlord agrees to",
+        "context_below": "(b) If Landlord sells or"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_11",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 2,
+        "position": [
+          107.87999725341797,
+          321.239990234375,
+          117.5999984741211,
+          333.239990234375
+        ],
+        "context_left": "",
+        "context_right": "(ii) (i)",
+        "context_above": "thesalecloses,payBroker: under this Listing not (a) If Landlord agrees to",
+        "context_below": "(b) If Landlord sells or"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "text_continuation",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_66",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 2,
+        "position": [
+          368.2799987792969,
+          687.3599853515625,
+          576.3599853515625,
+          699.719970703125
+        ],
+        "context_left": "County:AllamountspayabletoBrokeraretobepaidincashin",
+        "context_right": "",
+        "context_above": "who is a member of the Texas Association",
+        "context_below": "andLandlord ,  Page3of11"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_67",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 2,
+        "position": [
+          71.76000213623047,
+          699.8399658203125,
+          329.760009765625,
+          711.719970703125
+        ],
+        "context_left": "G.",
+        "context_right": "",
+        "context_above": "Landlordisobligatedtopaytheotherbrokerafeeforthelease,rental,orsale. ofREALTORS\u00aeatthetimethelease,rental,orsaleisnegotiated;and",
+        "context_below": "InitialedforIdentificationbyBroker/Associate Sasidhar Kaligotla, 8992 Preston Rd #110-404 Frisco TX 75035"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_12",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 3,
+        "position": [
+          53.880001068115234,
+          112.20001220703125,
+          64.1676025390625,
+          124.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "(1) (Checkonlyonebox.) Broker will file",
+        "context_above": "A. 6. LISTINGSERVICES:",
+        "context_below": "(a) Broker will time required"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_13",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 3,
+        "position": [
+          53.880001068115234,
+          348.239990234375,
+          63.599998474121094,
+          360.239990234375
+        ],
+        "context_left": "",
+        "context_right": "(2) BrokerwillnotfilethisListingwithanyMultipleListingServices(MLS)orotherlistingservice.",
+        "context_above": "MLS for all purposes. estate professionals",
+        "context_below": "Notice: Landlord Property will not"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_14",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 3,
+        "position": [
+          71.87999725341797,
+          148.20001220703125,
+          81.5999984741211,
+          160.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "(a) time Broker required will",
+        "context_above": "(Checkonlyonebox.) (1) Broker will file this",
+        "context_below": "(b) Landlord instructs"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_15",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 3,
+        "position": [
+          71.87999725341797,
+          194.15997314453125,
+          81.5999984741211,
+          206.280029296875
+        ],
+        "context_left": "",
+        "context_right": "(b) until Landlord instructs  days",
+        "context_above": "time required by (a) Broker will file",
+        "context_below": ""
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "text_continuation",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_73",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 3,
+        "position": [
+          482.1600036621094,
+          205.91998291015625,
+          576.3599853515625,
+          217.79998779296875
+        ],
+        "context_left": "purpose(s): Multiple more following",
+        "context_right": "",
+        "context_above": "Landlord authorizes Broker",
+        "context_below": ". information the MLS requires"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_74",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 3,
+        "position": [
+          89.76000213623047,
+          218.4000244140625,
+          566.760009765625,
+          229.79998779296875
+        ],
+        "context_left": "",
+        "context_right": "",
+        "context_above": "date this Listing begins for the following not to file",
+        "context_below": "to accurately and timely submit"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_16",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 4,
+        "position": [
+          123.72000122070312,
+          358.20001220703125,
+          133.44000244140625,
+          370.20001220703125
+        ],
+        "context_left": "Broker a If (1) (2)",
+        "context_right": "occupies  isnotauthorizedtoplaceakeyboxontheProperty. the Property",
+        "context_above": "involves risks (for example, in Landlord's absence. Using",
+        "context_below": "tenant statement (for example, TXR"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_17",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 4,
+        "position": [
+          158.75999450683594,
+          358.20001220703125,
+          168.47999572753906,
+          370.20001220703125
+        ],
+        "context_left": "isor tenant Broker a If (1) (2)",
+        "context_right": "the Property",
+        "context_above": "involves risks (for example, unauthorized in Landlord's absence. Using a",
+        "context_below": "occupies statement (for example, TXR"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_18",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 4,
+        "position": [
+          35.880001068115234,
+          522.239990234375,
+          45.599998474121094,
+          534.239990234375
+        ],
+        "context_left": "",
+        "context_right": "A. Intermediary Broker represents.",
+        "context_above": "9. INTERMEDIARY: 8. RESERVED",
+        "context_below": "Landlord"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_19",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 5,
+        "position": [
+          35.880001068115234,
+          128.280029296875,
+          45.599998474121094,
+          140.280029296875
+        ],
+        "context_left": "",
+        "context_right": "B. No orbuyerswhoBrokerrepresents. Intermediary",
+        "context_above": "representative, 9A and, in",
+        "context_below": "Notice: may \u2666"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1010",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 5,
+        "position": [
+          54.04669952392578,
+          476.4670104980469,
+          63.27080154418945,
+          487.8320007324219
+        ],
+        "context_left": "",
+        "context_right": "(1) (2) LandlorddoesnotwantthisListingtobedisplayedontheInternet. LandlorddoesnotwanttheaddressofthePropertytobedisplayedontheInternet.",
+        "context_above": "checked. B. Broker is authorized",
+        "context_below": "Notice:Landlord conduct"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1011",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 5,
+        "position": [
+          54.03670120239258,
+          488.5509948730469,
+          63.260799407958984,
+          499.9159851074219
+        ],
+        "context_left": "",
+        "context_right": "(1) (2) LandlorddoesnotwantthisListingtobedisplayedontheInternet. LandlorddoesnotwanttheaddressofthePropertytobedisplayedontheInternet.",
+        "context_above": "checked. B. Broker is authorized",
+        "context_below": "Notice:Landlord conduct"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_20",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 6,
+        "position": [
+          53.880001068115234,
+          210.239990234375,
+          63.599998474121094,
+          222.239990234375
+        ],
+        "context_left": "",
+        "context_right": "(1) BrokermaynotarrangeforcontractorstomakerepairsoralterationstotheProperty.",
+        "context_above": "MakeReady: D.",
+        "context_below": "(2) Broker may repairs or"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_21",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 6,
+        "position": [
+          53.880001068115234,
+          232.20001220703125,
+          63.599998474121094,
+          244.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "(2) repairs Broker may or",
+        "context_above": "(1) MakeReady: D.",
+        "context_below": "this agreement (a) pay the"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_22",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 6,
+        "position": [
+          71.87999725341797,
+          280.20001220703125,
+          81.5999984741211,
+          292.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "selectingcontractorsanddeterminingtherepairsoralterationstobemade.Landlordwill: (a) pay the contractors",
+        "context_above": "this agreement repairs or alterations (2) Broker may arrange",
+        "context_below": "(b) reimburse Broker fee of"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_23",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 6,
+        "position": [
+          71.87999725341797,
+          304.20001220703125,
+          81.5999984741211,
+          316.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "(b) fee reimburse of Broker",
+        "context_above": "(a) pay the contractors this agreement",
+        "context_below": "receiptofBroker'sinvoice. E. Broker is not"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "text_continuation",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_96",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 6,
+        "position": [
+          198.0,
+          611.8800048828125,
+          576.3599853515625,
+          623.760009765625
+        ],
+        "context_left": "Property'sadditionexcept: optional no",
+        "context_right": "",
+        "context_above": "of common areas (for example, pool or provides to Broker",
+        "context_below": "the Property that materially affects"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_97",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 6,
+        "position": [
+          71.76000213623047,
+          624.8399658203125,
+          566.280029296875,
+          636.719970703125
+        ],
+        "context_left": "J.",
+        "context_right": "of",
+        "context_above": "for the use of common areas (for example, Property Landlord",
+        "context_below": "condition concerning the Property that"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "text_continuation",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_98",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 6,
+        "position": [
+          207.24000549316406,
+          650.8800048828125,
+          576.3599853515625,
+          662.760009765625
+        ],
+        "context_left": "except: a of aware tenant not",
+        "context_right": "",
+        "context_above": "the Property that materially affects the common areas (for example,",
+        "context_below": "granted to Broker for the"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_99",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 6,
+        "position": [
+          71.76000213623047,
+          663.8399658203125,
+          576.3599853515625,
+          675.719970703125
+        ],
+        "context_left": "",
+        "context_right": "",
+        "context_above": "concerning the Property that materially",
+        "context_below": "and the license granted to"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_100",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 6,
+        "position": [
+          71.76000213623047,
+          676.9199829101562,
+          534.47998046875,
+          688.7999877929688
+        ],
+        "context_left": "K.",
+        "context_right": "do not",
+        "context_above": "condition concerning the Property that",
+        "context_below": "and the license granted to"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_24",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 8,
+        "position": [
+          35.880001068115234,
+          232.20001220703125,
+          45.599998474121094,
+          244.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "C. D. E. AddendumRegardingLead-BasedPaint(requiredifPropertywasbuiltbefore1978); InformationaboutSpecialFloodHazardAreas;",
+        "context_above": "B. A. Landlordmayneedtoprovideare:",
+        "context_below": "F. G."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_25",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          35.880001068115234,
+          245.280029296875,
+          45.599998474121094,
+          257.280029296875
+        ],
+        "context_left": "",
+        "context_right": "D. E. F. InformationaboutSpecialFloodHazardAreas; CondominiumAddendumtoListing;",
+        "context_above": "C. B. A.",
+        "context_below": "G. H."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_26",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          35.880001068115234,
+          258.239990234375,
+          45.599998474121094,
+          270.239990234375
+        ],
+        "context_left": "",
+        "context_right": "E. F. G. InformationaboutSpecialFloodHazardAreas; CondominiumAddendumtoListing;",
+        "context_above": "D. C. B.",
+        "context_below": "H. I. IRSForms(W-9orW-8)"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_27",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          35.880001068115234,
+          271.20001220703125,
+          45.599998474121094,
+          283.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "F. G. H. CondominiumAddendumtoListing; InformationaboutOn-SiteSewerFacility",
+        "context_above": "E. D.",
+        "context_below": "I. IRSForms(W-9orW-8) J."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_28",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          35.880001068115234,
+          284.1600036621094,
+          45.599998474121094,
+          296.2799987792969
+        ],
+        "context_left": "",
+        "context_right": "G. H. I. InformationaboutOn-SiteSewerFacility KeyboxAuthorizationbyTenant;and",
+        "context_above": "F. E.",
+        "context_below": "J. K."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_29",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          35.880001068115234,
+          297.239990234375,
+          45.599998474121094,
+          309.239990234375
+        ],
+        "context_left": "",
+        "context_right": "H. I. J. InformationaboutOn-SiteSewerFacility Owner'sAuthorizationConcerningUnescortedAccesstoProperty",
+        "context_above": "G. F.",
+        "context_below": "K. L."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_30",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          35.880001068115234,
+          310.20001220703125,
+          45.599998474121094,
+          322.20001220703125
+        ],
+        "context_left": "",
+        "context_right": "I. J. K. Owner'sAuthorizationConcerningUnescortedAccesstoProperty GeneralInformationforLandlordRegardingAssistanceAnimals",
+        "context_above": "H. G.",
+        "context_below": "L. 20. LEASE REQUIREMENTS"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_31",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          35.880001068115234,
+          323.2799987792969,
+          45.599998474121094,
+          335.2799987792969
+        ],
+        "context_left": "",
+        "context_right": "J. K. L. Owner'sAuthorizationConcerningUnescortedAccesstoProperty GeneralInformationforLandlordRegardingAssistanceAnimals",
+        "context_above": "I. IRSForms(W-9orW-8) H.",
+        "context_below": "20. LEASE REQUIREMENTS brokers, Broker"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_32",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          35.880001068115234,
+          336.239990234375,
+          46.36289978027344,
+          348.239990234375
+        ],
+        "context_left": "",
+        "context_right": "K. L. GeneralInformationforLandlordRegardingAssistanceAnimals",
+        "context_above": "J. I. IRSForms(W-9orW-8)",
+        "context_below": "20. LEASE REQUIREMENTS brokers, Broker"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_49",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          35.68550109863281,
+          218.697021484375,
+          45.405601501464844,
+          230.697021484375
+        ],
+        "context_left": "",
+        "context_right": "B. C. D. AddendumRegardingRentalFloodDisclosure AddendumRegardingLead-BasedPaint(requiredifPropertywasbuiltbefore1978);",
+        "context_above": "A. Landlordmayneedtoprovideare: 19. ADDENDA AND",
+        "context_below": "E. F."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_50",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          36.034698486328125,
+          207.1820068359375,
+          45.75469970703125,
+          219.1820068359375
+        ],
+        "context_left": "",
+        "context_right": "A. B. C. InformationAboutBrokerageServices; AddendumRegardingRentalFloodDisclosure",
+        "context_above": "Landlordmayneedtoprovideare: 19. ADDENDA AND",
+        "context_below": "D. E."
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_48",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 8,
+        "position": [
+          36.034698486328125,
+          195.4439697265625,
+          45.75469970703125,
+          207.4439697265625
+        ],
+        "context_left": "",
+        "context_right": "Landlordmayneedtoprovideare: A. B. InformationAboutBrokerageServices; AddendumRegardingRentalFloodDisclosure",
+        "context_above": "19. ADDENDA AND",
+        "context_below": "C. D. E."
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_33",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          193.9199981689453,
+          416.2799987792969,
+          203.52000427246094,
+          428.2799987792969
+        ],
+        "context_left": "MonthlyRent:Dueonthe",
+        "context_right": "",
+        "context_above": "requirements by Landlord. The information is Broker may communicate the",
+        "context_below": "Charges: Time at which late"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_34",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          307.0799865722656,
+          416.2799987792969,
+          316.79998779296875,
+          428.2799987792969
+        ],
+        "context_left": "firstdayofthemonth",
+        "context_right": "",
+        "context_above": "information is negotiable and does not the Listing Price as",
+        "context_below": "late charges are incurred: 11:59"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_35",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          180.9600067138672,
+          464.1600036621094,
+          190.67999267578125,
+          476.2799987792969
+        ],
+        "context_left": "InitialLateCharge: whichrentisdue.",
+        "context_right": "(a)$",
+        "context_above": "Charges: Time at which late charges are MonthlyRent:Dueonthe  firstdayofthemonth",
+        "context_below": "AdditionalLateCharges:$ Animals:  notpermittedor"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_36",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          343.44000244140625,
+          464.1600036621094,
+          353.1600036621094,
+          476.2799987792969
+        ],
+        "context_left": ";",
+        "context_right": "",
+        "context_above": "charges are incurred: 11:59 p.m. on the  firstdayofthemonth",
+        "context_below": "perdaythereafter.  permittedwiththefollowingrestrictions"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_37",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          115.08000183105469,
+          500.1600036621094,
+          124.80000305175781,
+          512.280029296875
+        ],
+        "context_left": "Animals: C.",
+        "context_right": "",
+        "context_above": "(2) AdditionalLateCharges:$ (1) InitialLateCharge: (a)$ whichrentisdue.",
+        "context_below": "(1)"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_38",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 8,
+        "position": [
+          203.75999450683594,
+          500.1600036621094,
+          213.47999572753906,
+          512.280029296875
+        ],
+        "context_left": "notpermittedor",
+        "context_right": "",
+        "context_above": "AdditionalLateCharges:$ InitialLateCharge: (a)$ whichrentisdue.",
+        "context_below": ""
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_57",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 8,
+        "position": [
+          71.99749755859375,
+          560.2689819335938,
+          81.25669860839844,
+          572.2100219726562
+        ],
+        "context_left": "",
+        "context_right": "(a) (b)themonthlyrenttobeincreasedby$ ananimaldepositof$",
+        "context_above": "(1)",
+        "context_below": "(2) Animal violation"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_59",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 8,
+        "position": [
+          71.95189666748047,
+          572.31396484375,
+          81.21109771728516,
+          584.2550048828125
+        ],
+        "context_left": "",
+        "context_right": "(a) (b)themonthlyrenttobeincreasedby$ (c)aone-time,non-refundablepaymentof$ ananimaldepositof$",
+        "context_above": "(1)",
+        "context_below": "(2) Animal violation $"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_58",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 8,
+        "position": [
+          71.95189666748047,
+          584.4320068359375,
+          81.21109771728516,
+          596.3729858398438
+        ],
+        "context_left": "",
+        "context_right": "(b)themonthlyrenttobeincreasedby$ (c)aone-time,non-refundablepaymentof$",
+        "context_above": "(a) ananimaldepositof$ (1)",
+        "context_below": "(2) Animal violation $ Notice:"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_39",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          220.0800018310547,
+          182.280029296875,
+          229.8000030517578,
+          194.280029296875
+        ],
+        "context_left": "by: maintained",
+        "context_right": "Tenant;",
+        "context_above": "InventoryandConditionForm:Tobedeliveredwithin Keybox:Authorizedduringlast",
+        "context_below": "Tobemaintainedby:  Landlord;  Tenant;"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_40",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 9,
+        "position": [
+          284.760009765625,
+          182.280029296875,
+          294.4800109863281,
+          194.280029296875
+        ],
+        "context_left": "Landlord; by:",
+        "context_right": "a contractor",
+        "context_above": "InventoryandConditionForm:Tobedeliveredwithin  daysoflease;EarlyWithdrawalFee$",
+        "context_below": "Landlord;  Tenant;"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_41",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 9,
+        "position": [
+          341.0400085449219,
+          182.280029296875,
+          350.760009765625,
+          194.280029296875
+        ],
+        "context_left": "Tenant;  Landlord;",
+        "context_right": "contractor  (contractor)paidbyTenant. chosen",
+        "context_above": "days  daysoflease;EarlyWithdrawalFee$",
+        "context_below": "Landlord;  Tenant;  acontractorchosenandpaidbyTenant;"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1003",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          107.77999877929688,
+          193.95098876953125,
+          117.5,
+          205.95098876953125
+        ],
+        "context_left": "Yard: K.",
+        "context_right": "be maintained",
+        "context_above": "J. InventoryandConditionForm:Tobedeliveredwithin I. Keybox:Authorizedduringlast",
+        "context_below": "Pool/Spa: Tobemaintainedby: L."
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_42",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          226.9199981689453,
+          213.239990234375,
+          236.63999938964844,
+          225.239990234375
+        ],
+        "context_left": "Tobemaintainedby:",
+        "context_right": "Tenant;",
+        "context_above": "maintained by:  Landlord;  Tenant; InventoryandConditionForm:Tobedeliveredwithin",
+        "context_below": "Emergencyphonenumberforrepairs:"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_43",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 9,
+        "position": [
+          285.8399963378906,
+          213.239990234375,
+          295.55999755859375,
+          225.239990234375
+        ],
+        "context_left": "Landlord; Tobemaintainedby:",
+        "context_right": "acontractorchosenandpaidbyTenant;",
+        "context_above": "by:  Landlord;  Tenant;  a contractor InventoryandConditionForm:Tobedeliveredwithin",
+        "context_below": "Emergencyphonenumberforrepairs:"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_44",
+        "field_type": "CheckBox",
+        "current_value": "Off",
+        "page": 9,
+        "position": [
+          336.6000061035156,
+          213.239990234375,
+          346.32000732421875,
+          225.239990234375
+        ],
+        "context_left": "Tenant;  Landlord;",
+        "context_right": "(contractor)",
+        "context_above": "Landlord;  Tenant;  a contractor chosen  days",
+        "context_below": ""
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1001",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          125.89299774169922,
+          225.0830078125,
+          135.61300659179688,
+          237.0830078125
+        ],
+        "context_left": "Pool/Spa: L.",
+        "context_right": "",
+        "context_above": "Tobemaintainedby: K. Yard: To be maintained by:",
+        "context_below": "M. Repairs: Emergencyphonenumberforrepairs: Appliancesoritemsthatwillnotberepaired:"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1002",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          125.89299774169922,
+          237.25201416015625,
+          135.61300659179688,
+          249.25201416015625
+        ],
+        "context_left": "",
+        "context_right": "",
+        "context_above": "L. Pool/Spa: Tobemaintainedby:",
+        "context_below": "M. Repairs: Emergencyphonenumberforrepairs: Appliancesoritemsthatwillnotberepaired: N."
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1005",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          198.56300354003906,
+          330.4739990234375,
+          207.04100036621094,
+          341.5069885253906
+        ],
+        "context_left": "(2)Ifprocuredbylandlord: (1)Ifprocuredbytenant:",
+        "context_right": "(i)$ (i)$",
+        "context_above": "Assignment,SublettingandReplacementTenantFees: SpecialProvisions:",
+        "context_below": ""
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1007",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          346.2309875488281,
+          330.4960021972656,
+          354.7090148925781,
+          341.52899169921875
+        ],
+        "context_left": ";or  ;or Assignment,SublettingandReplacementTenantFees:",
+        "context_right": "(ii) (ii) %ofonemonth'srent. %ofonemonth'srent.",
+        "context_above": "",
+        "context_below": ""
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "checkbox",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1004",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          198.447998046875,
+          342.5769958496094,
+          206.92599487304688,
+          353.6099853515625
+        ],
+        "context_left": "(2)Ifprocuredbylandlord: (1)Ifprocuredbytenant:",
+        "context_right": "(i)$ (i)$",
+        "context_above": "Assignment,SublettingandReplacementTenantFees:",
+        "context_below": ""
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_checkbox_1006",
+        "field_type": "CheckBox",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          346.1159973144531,
+          342.5989990234375,
+          354.593994140625,
+          353.6319885253906
+        ],
+        "context_left": ";or  ;or",
+        "context_right": "(ii) (ii) %ofonemonth'srent. %ofonemonth'srent.",
+        "context_above": "",
+        "context_below": ""
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  },
+  {
+    "group_type": "same_value",
+    "fields": [
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_36",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 1,
+        "position": [
+          197.75999450683594,
+          47.52001953125,
+          576.3599853515625,
+          59.760009765625
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "compensation between brokers is not"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_58",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 2,
+        "position": [
+          197.75999450683594,
+          45.3599853515625,
+          576.3599853515625,
+          57.719970703125
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "is Payable either during this"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_71",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 3,
+        "position": [
+          197.75999450683594,
+          45.84002685546875,
+          576.3599853515625,
+          57.719970703125
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "(Check1or2only.)"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_78",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 4,
+        "position": [
+          197.75999450683594,
+          45.84002685546875,
+          576.3599853515625,
+          57.719970703125
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "both the Landlord Listing Content"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_83",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 5,
+        "position": [
+          197.75999450683594,
+          28.91998291015625,
+          576.3599853515625,
+          57.719970703125
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "make no appointments as described"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_89",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 6,
+        "position": [
+          197.75999450683594,
+          45.84002685546875,
+          576.3599853515625,
+          57.719970703125
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "Property to other brokers, appraisers,"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_104",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 7,
+        "position": [
+          197.75999450683594,
+          28.91998291015625,
+          576.3599853515625,
+          57.719970703125
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "Landlordagreesto:"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_108",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 8,
+        "position": [
+          197.75999450683594,
+          45.84002685546875,
+          576.3599853515625,
+          57.719970703125
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "good faith in an effort"
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_131",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 9,
+        "position": [
+          197.75999450683594,
+          46.32000732421875,
+          576.3599853515625,
+          57.719970703125
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": ""
+      },
+      {
+        "field_name": "residential_real_estate_listing_agreement_exclusive_right_to_lease_textfield_161",
+        "field_type": "Text",
+        "current_value": "",
+        "page": 10,
+        "position": [
+          197.75999450683594,
+          33.84002685546875,
+          576.3599853515625,
+          57.719970703125
+        ],
+        "context_left": "ResidentialLeaseListingConcerning",
+        "context_right": "",
+        "context_above": "",
+        "context_below": "information Broker submits to an"
+      }
+    ],
+    "confidence": 1.0,
+    "reason": "User-created group"
+  }
+]
