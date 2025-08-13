@@ -1,0 +1,50 @@
+{
+  "field_mappings": {
+    "early_termination_of_residential_lease_fillable_textfield_1": "early_termination_of_residential_lease_fillable_fillable_textfield_1",
+    "early_termination_of_residential_lease_fillable_textfield_2": "early_termination_of_residential_lease_fillable_fillable_textfield_2",
+    "early_termination_of_residential_lease_fillable_textfield_3": "early_termination_of_residential_lease_fillable_fillable_textfield_3",
+    "early_termination_of_residential_lease_fillable_textfield_4": "early_termination_of_residential_lease_fillable_fillable_textfield_4",
+    "early_termination_of_residential_lease_fillable_textfield_5": "early_termination_of_residential_lease_fillable_fillable_textfield_5",
+    "early_termination_of_residential_lease_fillable_textfield_6": "early_termination_of_residential_lease_fillable_fillable_textfield_6",
+    "early_termination_of_residential_lease_fillable_textfield_7": "early_termination_of_residential_lease_fillable_fillable_textfield_7",
+    "early_termination_of_residential_lease_fillable_textfield_8": "early_termination_of_residential_lease_fillable_fillable_textfield_8",
+    "early_termination_of_residential_lease_fillable_textfield_9": "early_termination_of_residential_lease_fillable_fillable_textfield_9",
+    "early_termination_of_residential_lease_fillable_textfield_10": "early_termination_of_residential_lease_fillable_fillable_textfield_10",
+    "early_termination_of_residential_lease_fillable_textfield_11": "early_termination_of_residential_lease_fillable_fillable_textfield_11",
+    "early_termination_of_residential_lease_fillable_textfield_12": "early_termination_of_residential_lease_fillable_fillable_textfield_12",
+    "early_termination_of_residential_lease_fillable_textfield_13": "early_termination_of_residential_lease_fillable_fillable_textfield_13",
+    "early_termination_of_residential_lease_fillable_textfield_14": "early_termination_of_residential_lease_fillable_fillable_textfield_14",
+    "early_termination_of_residential_lease_fillable_textfield_15": "early_termination_of_residential_lease_fillable_fillable_textfield_15",
+    "early_termination_of_residential_lease_fillable_textfield_16": "early_termination_of_residential_lease_fillable_fillable_textfield_16",
+    "early_termination_of_residential_lease_fillable_textfield_17": "early_termination_of_residential_lease_fillable_fillable_textfield_17",
+    "early_termination_of_residential_lease_fillable_textfield_18": "early_termination_of_residential_lease_fillable_fillable_textfield_18",
+    "early_termination_of_residential_lease_fillable_textfield_19": "early_termination_of_residential_lease_fillable_fillable_textfield_19",
+    "early_termination_of_residential_lease_fillable_textfield_20": "early_termination_of_residential_lease_fillable_fillable_textfield_20",
+    "early_termination_of_residential_lease_fillable_textfield_21": "early_termination_of_residential_lease_fillable_fillable_textfield_21",
+    "early_termination_of_residential_lease_fillable_textfield_22": "early_termination_of_residential_lease_fillable_fillable_textfield_22",
+    "early_termination_of_residential_lease_fillable_textfield_23": "early_termination_of_residential_lease_fillable_fillable_textfield_23",
+    "early_termination_of_residential_lease_fillable_textfield_24": "early_termination_of_residential_lease_fillable_fillable_textfield_24",
+    "early_termination_of_residential_lease_fillable_textfield_25": "early_termination_of_residential_lease_fillable_fillable_textfield_25",
+    "early_termination_of_residential_lease_fillable_textfield_26": "early_termination_of_residential_lease_fillable_fillable_textfield_26",
+    "early_termination_of_residential_lease_fillable_textfield_27": "early_termination_of_residential_lease_fillable_fillable_textfield_27",
+    "early_termination_of_residential_lease_fillable_textfield_28": "early_termination_of_residential_lease_fillable_fillable_textfield_28",
+    "early_termination_of_residential_lease_fillable_textfield_29": "early_termination_of_residential_lease_fillable_fillable_textfield_29",
+    "early_termination_of_residential_lease_fillable_textfield_30": "early_termination_of_residential_lease_fillable_fillable_textfield_30",
+    "early_termination_of_residential_lease_fillable_textfield_31": "early_termination_of_residential_lease_fillable_fillable_textfield_31",
+    "early_termination_of_residential_lease_fillable_textfield_32": "early_termination_of_residential_lease_fillable_fillable_textfield_32",
+    "early_termination_of_residential_lease_fillable_textfield_33": "early_termination_of_residential_lease_fillable_fillable_textfield_33"
+  },
+  "metadata": {
+    "total_fields": 33,
+    "mapped_fields": 33,
+    "created_date": "2025-08-09",
+    "pdf_file": "early_termination_of_residential_lease_fillable_Fillable.pdf",
+    "form_name": "early_termination_of_residential_lease_fillable_fillable",
+    "field_counts": {
+      "text": 33,
+      "checkbox": 0,
+      "radio": 0,
+      "button": 0
+    }
+  }
+}

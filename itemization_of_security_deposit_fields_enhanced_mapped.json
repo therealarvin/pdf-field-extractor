@@ -1,0 +1,1719 @@
+[
+  {
+    "field_name": "itemization_of_security_deposit_textfield_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      63.36000061035156,
+      122.4000244140625,
+      576.3599853515625,
+      134.760009765625
+    ],
+    "context_left": "To:",
+    "context_right": "",
+    "context_above": "©TexasAssociationofREALTORS®,Inc.2024 USEOFTHISFORMBYPERSONSWHOARENOTMEMBERSOFTHETEXASASSOCIATIONOFREALTORS®,INC.ISNOTAUTHORIZED. ITEMIZATION OF SECURITY DEPOSIT",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_1"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      35.7599983215332,
+      148.44000244140625,
+      576.3599853515625,
+      160.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_2"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      35.7599983215332,
+      135.3599853515625,
+      512.1599731445312,
+      147.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "©TexasAssociationofREALTORS®,Inc.2024",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_3"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      240.24000549316406,
+      203.4000244140625,
+      576.3599853515625,
+      215.760009765625
+    ],
+    "context_left": "at Property the",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Move-Out Date:",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_4"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_5",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      216.3599853515625,
+      576.3599853515625,
+      228.719970703125
+    ],
+    "context_left": "Re:",
+    "context_right": "",
+    "context_above": "at",
+    "context_below": "Move-Out",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_5"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_6",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      452.5199890136719,
+      239.4000244140625,
+      576.3599853515625,
+      251.760009765625
+    ],
+    "context_left": "Date:     Move-Out",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_6"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_7",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.8800048828125,
+      285.3599853515625,
+      576.3599853515625,
+      297.7200012207031
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "Date:",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_7"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_8",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      363.9599914550781,
+      331.44000244140625,
+      443.8800048828125,
+      343.79998779296875
+    ],
+    "context_left": "): describe ( tear and",
+    "context_right": "",
+    "context_above": "deposit. $",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_8"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_9",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      344.3999938964844,
+      443.8800048828125,
+      356.760009765625
+    ],
+    "context_left": "(1)",
+    "context_right": "",
+    "context_above": "describe Property, beyond wear and tear ( were made to",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_9"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_10",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      357.3599853515625,
+      443.8800048828125,
+      369.7200012207031
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "describe Property, beyond wear and tear ( were made to",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_10"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_11",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      370.44000244140625,
+      443.8800048828125,
+      382.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "describe Property, beyond wear and tear (",
+    "context_below": "Tenant is responsible to  clean,",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_11"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_12",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      383.3999938964844,
+      443.8800048828125,
+      395.760009765625
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "describe Property, beyond wear and tear (",
+    "context_below": "Tenant is responsible to  clean,",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_12"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_13",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      396.3599853515625,
+      443.8800048828125,
+      408.7200012207031
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "",
+    "context_below": "Tenant is responsible to  clean,",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_13"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_14",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.8800048828125,
+      396.3599853515625,
+      576.3599853515625,
+      408.7200012207031
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_14"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_1",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      269.6400146484375,
+      419.760009765625,
+      279.8399963378906,
+      432.239990234375
+    ],
+    "context_left": "to responsible the  maintain is",
+    "context_right": "deodorize,",
+    "context_above": "",
+    "context_below": "Property: rent for the following",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_1"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_2",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      314.760009765625,
+      419.760009765625,
+      324.9599914550781,
+      432.239990234375
+    ],
+    "context_left": "clean, Property: to responsible",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "the following period(s):",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_2"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_3",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      71.87999725341797,
+      432.7200012207031,
+      82.08000183105469,
+      445.20001220703125
+    ],
+    "context_left": "(2)",
+    "context_right": "for which or Tenant",
+    "context_above": "Costs",
+    "context_below": "(3) Unpaid or accelerated",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_3"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_4",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      161.0399932861328,
+      432.7200012207031,
+      171.1199951171875,
+      445.20001220703125
+    ],
+    "context_left": "or which  exterminate, for Costs",
+    "context_right": "is responsible the Property:",
+    "context_above": "Tenant",
+    "context_below": "Unpaid or accelerated rent for",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_4"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_15",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.8800048828125,
+      432.3599853515625,
+      576.3599853515625,
+      444.7200012207031
+    ],
+    "context_left": "$  deodorize,",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_15"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_16",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      333.4800109863281,
+      455.3999938964844,
+      443.8800048828125,
+      467.760009765625
+    ],
+    "context_left": "period(s): following",
+    "context_right": "$",
+    "context_above": "$  clean,  deodorize,",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_16"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_17",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      468.3599853515625,
+      443.8800048828125,
+      480.7200012207031
+    ],
+    "context_left": "(3)",
+    "context_right": "$",
+    "context_above": "rent for the following period(s):  maintain the Property: Tenant is",
+    "context_below": "for the following month(s):",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_17"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_18",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.8800048828125,
+      468.3599853515625,
+      576.3599853515625,
+      480.7200012207031
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_18"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_19",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      301.79998779296875,
+      491.3999938964844,
+      442.67999267578125,
+      503.760009765625
+    ],
+    "context_left": "month(s): following",
+    "context_right": "$",
+    "context_above": "$ period(s):",
+    "context_below": "27 of lease), if Tenant",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_19"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_20",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      504.3599853515625,
+      442.67999267578125,
+      516.719970703125
+    ],
+    "context_left": "(4)",
+    "context_right": "$",
+    "context_above": "for the following month(s): rent for the following period(s):",
+    "context_below": "(as defined in Paragraph 27",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_20"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_21",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.8800048828125,
+      504.3599853515625,
+      576.3599853515625,
+      516.719970703125
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_21"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_22",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      201.1199951171875,
+      563.4000244140625,
+      445.79998779296875,
+      575.760009765625
+    ],
+    "context_left": "): describe ( utilities",
+    "context_right": "$",
+    "context_above": "Paragraph 27 of lease), if Tenant is in",
+    "context_below": "):",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_22"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_23",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      576.3599853515625,
+      445.79998779296875,
+      588.719970703125
+    ],
+    "context_left": "(6)",
+    "context_right": "$",
+    "context_above": "describe ): (as defined in Paragraph 27 of lease), if",
+    "context_below": "charges ( describe ):",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_23"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_24",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.8800048828125,
+      540.3599853515625,
+      576.3599853515625,
+      552.719970703125
+    ],
+    "context_left": "$ in is Tenant",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_24"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_25",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.8800048828125,
+      576.3599853515625,
+      576.3599853515625,
+      588.719970703125
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_25"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_26",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      242.0399932861328,
+      599.4000244140625,
+      444.0,
+      611.760009765625
+    ],
+    "context_left": "): describe ( charges",
+    "context_right": "$",
+    "context_above": "",
+    "context_below": "garage door openers,  security",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_26"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_27",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      612.3599853515625,
+      443.8800048828125,
+      624.719970703125
+    ],
+    "context_left": "(7)",
+    "context_right": "$",
+    "context_above": "charges ( describe ): describe ):",
+    "context_below": "unreturned  keys,  garage door openers,",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_27"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_28",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.8800048828125,
+      612.3599853515625,
+      576.3599853515625,
+      624.719970703125
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_28"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_5",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      210.36000061035156,
+      635.760009765625,
+      220.55999755859375,
+      648.239990234375
+    ],
+    "context_left": "unreturned  other replace",
+    "context_right": "garage",
+    "context_above": "animal charges ( describe ):",
+    "context_below": "components:",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_5"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_6",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      252.0,
+      635.760009765625,
+      262.0799865722656,
+      648.239990234375
+    ],
+    "context_left": "keys, components: unreturned",
+    "context_right": "door openers,",
+    "context_above": "charges ( describe ):",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_6"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_7",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      372.7200012207031,
+      635.760009765625,
+      382.9200134277344,
+      648.239990234375
+    ],
+    "context_left": "openers, door  garage",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_7"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_8",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      115.19999694824219,
+      648.719970703125,
+      125.4000015258789,
+      661.2000122070312
+    ],
+    "context_left": "devices, to Costs (8)",
+    "context_right": "unreturned components:",
+    "context_above": "replace (7) Unpaid animal charges ( describe",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_8"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_29",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      221.8800048828125,
+      648.3599853515625,
+      442.0799865722656,
+      660.719970703125
+    ],
+    "context_left": "components: unreturned  other replace",
+    "context_right": "$",
+    "context_above": "keys,  garage door openers,  security ):",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_29"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_30",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      661.4400024414062,
+      442.0799865722656,
+      673.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "components: unreturned  keys,  garage door openers,",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_30"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_31",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.8800048828125,
+      661.4400024414062,
+      576.3599853515625,
+      673.7999877929688
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_31"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_32",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      159.72000122070312,
+      34.44000244140625,
+      576.3599853515625,
+      46.79998779296875
+    ],
+    "context_left": "ItemizationofSecurityDeposit",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "fixtures installed by Tenant (",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_32"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_33",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      80.4000244140625,
+      438.3599853515625,
+      92.760009765625
+    ],
+    "context_left": "(9)",
+    "context_right": "$",
+    "context_above": "unauthorized locks or fixtures installed by",
+    "context_below": "access the Property because Property",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_33"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_34",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      80.4000244140625,
+      576.3599853515625,
+      92.760009765625
+    ],
+    "context_left": "$ ): describe ( Tenant",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_34"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_35",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      116.4000244140625,
+      576.3599853515625,
+      128.760009765625
+    ],
+    "context_left": "$ made",
+    "context_right": "",
+    "context_above": "$ ):",
+    "context_below": "in",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_35"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_36",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      172.44000244140625,
+      155.4000244140625,
+      441.4800109863281,
+      167.760009765625
+    ],
+    "context_left": "rooms: replace following to Cost",
+    "context_right": "$",
+    "context_above": "burned-out light bulbs and fluorescent tubes Property because Property was",
+    "context_below": "store the following abandoned property:",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_36"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_37",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      168.3599853515625,
+      441.4800109863281,
+      180.719970703125
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "missing or burned-out light bulbs and Tenant:",
+    "context_below": "remove, and store the following",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_37"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_38",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      168.3599853515625,
+      576.3599853515625,
+      180.719970703125
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "in $",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_38"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_39",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      398.760009765625,
+      191.4000244140625,
+      442.0799865722656,
+      203.760009765625
+    ],
+    "context_left": "property: abandoned",
+    "context_right": "",
+    "context_above": "$ fluorescent tubes in",
+    "context_below": "$ parked vehicles:",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_39"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_40",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      204.3599853515625,
+      442.0799865722656,
+      216.719970703125
+    ],
+    "context_left": "(12)",
+    "context_right": "$",
+    "context_above": "remove, and store the following abandoned",
+    "context_below": "the following abandoned or illegally",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_40"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_41",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      217.44000244140625,
+      442.0799865722656,
+      229.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "remove, and store the following abandoned",
+    "context_below": "the following abandoned or illegally",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_41"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_42",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      217.44000244140625,
+      576.3599853515625,
+      229.79998779296875
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_42"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_43",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      405.6000061035156,
+      240.3599853515625,
+      442.79998779296875,
+      252.719970703125
+    ],
+    "context_left": "vehicles: parked",
+    "context_right": "",
+    "context_above": "$ property:",
+    "context_below": "$ other",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_43"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_44",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      253.44000244140625,
+      442.79998779296875,
+      265.79998779296875
+    ],
+    "context_left": "(13)",
+    "context_right": "$",
+    "context_above": "following abandoned or illegally parked",
+    "context_below": "costs of court, costs of",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_44"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_45",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      266.4000244140625,
+      442.79998779296875,
+      278.760009765625
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "following abandoned or illegally parked",
+    "context_below": "costs of court, costs of",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_45"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_46",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      266.4000244140625,
+      576.3599853515625,
+      278.760009765625
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "):",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_46"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_47",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      315.3599853515625,
+      444.4800109863281,
+      327.7200012207031
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "describe a legal proceeding against Tenant ( costs of court,",
+    "context_below": "associated with sending notices to",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_47"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_48",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      328.44000244140625,
+      444.4800109863281,
+      340.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "describe a legal proceeding against Tenant ( costs of court,",
+    "context_below": "associated with sending notices to",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_48"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_49",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      328.44000244140625,
+      576.3599853515625,
+      340.79998779296875
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "):",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_49"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_50",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      183.47999572753906,
+      364.44000244140625,
+      446.3999938964844,
+      376.79998779296875
+    ],
+    "context_left": "lease: the costs of violations Mailing",
+    "context_right": "$",
+    "context_above": "sending notices to Tenant for the following",
+    "context_below": "landscaping, or any alteration to",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_50"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_51",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      377.3999938964844,
+      446.3999938964844,
+      389.760009765625
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "lease: associated with sending notices to Tenant for",
+    "context_below": "walls, flooring, landscaping, or any",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_51"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_52",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      377.3999938964844,
+      576.3599853515625,
+      389.760009765625
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_52"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_53",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      300.6000061035156,
+      413.3999938964844,
+      441.4800109863281,
+      425.760009765625
+    ],
+    "context_left": "or (describe): landscaping, Landlord flooring,",
+    "context_right": "",
+    "context_above": "any alteration to Property $",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_53"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_54",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      426.3599853515625,
+      441.4800109863281,
+      438.7200012207031
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "writing by Landlord (describe): walls, flooring, landscaping, or any alteration",
+    "context_below": "Property caused by smoking (describe)",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_54"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_55",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      439.44000244140625,
+      441.4800109863281,
+      451.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "writing by Landlord (describe): walls, flooring, landscaping, or any alteration",
+    "context_below": "Property caused by smoking (describe)",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_55"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_56",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      439.44000244140625,
+      576.3599853515625,
+      451.79998779296875
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_56"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_57",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      348.8399963378906,
+      465.3599853515625,
+      440.8800048828125,
+      477.7200012207031
+    ],
+    "context_left": ": (describe) smoking",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_57"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_58",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      478.44000244140625,
+      440.8800048828125,
+      490.79998779296875
+    ],
+    "context_left": "(17)",
+    "context_right": "$",
+    "context_above": "Property caused by smoking (describe) :",
+    "context_below": "security devices (as provided in",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_58"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_59",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      491.3999938964844,
+      440.8800048828125,
+      503.760009765625
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "Property caused by smoking (describe) :",
+    "context_below": "security devices (as provided in",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_59"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_60",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      491.3999938964844,
+      576.3599853515625,
+      503.760009765625
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_60"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_61",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      517.4400024414062,
+      576.3599853515625,
+      529.7999877929688
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "$",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_61"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_62",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      105.36000061035156,
+      543.3599853515625,
+      447.4800109863281,
+      555.719970703125
+    ],
+    "context_left": "Other: (19)",
+    "context_right": "",
+    "context_above": "devices (as provided in Paragraph 19):",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_62"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_63",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      556.4400024414062,
+      447.4800109863281,
+      568.7999877929688
+    ],
+    "context_left": "(19)",
+    "context_right": "",
+    "context_above": "security devices (as provided in Paragraph",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_63"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_64",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      569.4000244140625,
+      447.4800109863281,
+      581.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "security devices (as provided in Paragraph",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_64"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_65",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      582.3599853515625,
+      447.4800109863281,
+      594.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_65"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_66",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      595.4400024414062,
+      447.4800109863281,
+      607.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_66"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_67",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      608.4000244140625,
+      447.4800109863281,
+      620.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_67"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_68",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      621.3599853515625,
+      447.4800109863281,
+      633.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_68"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_69",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      634.4400024414062,
+      447.4800109863281,
+      646.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_69"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_70",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      647.4000244140625,
+      447.4800109863281,
+      659.760009765625
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_70"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_71",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      71.76000213623047,
+      660.3599853515625,
+      447.4800109863281,
+      672.719970703125
+    ],
+    "context_left": "",
+    "context_right": "$",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_71"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_72",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      458.8800048828125,
+      660.3599853515625,
+      576.3599853515625,
+      672.719970703125
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_72"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_73",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      159.72000122070312,
+      35.4000244140625,
+      576.3599853515625,
+      46.79998779296875
+    ],
+    "context_left": "ItemizationofSecurityDeposit",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "$",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_73"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_74",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      458.8800048828125,
+      68.4000244140625,
+      576.3599853515625,
+      79.79998779296875
+    ],
+    "context_left": "$",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_74"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_75",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      265.32000732421875,
+      124.32000732421875,
+      357.3599853515625,
+      135.719970703125
+    ],
+    "context_left": "Enclosedisacheckintheamountof$ the under",
+    "context_right": "represents",
+    "context_above": "",
+    "context_below": "above-referenced lease. security deposit tendered.",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_75"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_9",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 2,
+    "position": [
+      35.880001068115234,
+      123.5999755859375,
+      46.08000183105469,
+      136.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "Enclosedisacheckintheamountof$ deposit you",
+    "context_above": "Amount Tenderedor",
+    "context_below": "B. The deductions excess. In",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_9"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_10",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 2,
+    "position": [
+      35.880001068115234,
+      159.5999755859375,
+      46.08000183105469,
+      172.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "The excess. deductions In accordance",
+    "context_above": "deposit you   A.",
+    "context_below": "Tenant receives",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_10"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_76",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      356.1600036621094,
+      186.3599853515625,
+      576.3599853515625,
+      197.760009765625
+    ],
+    "context_left": "address: lease, the following of",
+    "context_right": "",
+    "context_above": "must pay the excess within 10 days after Landlord hereby",
+    "context_below": "costs and liability such as",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_76"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_77",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      71.76000213623047,
+      199.32000732421875,
+      569.1599731445312,
+      210.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "to the following address: Paragraph 10 of the lease, Tenant",
+    "context_below": "expose Tenant to additional costs",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_77"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_78",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      36.0,
+      273.3599853515625,
+      343.32000732421875,
+      284.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "costs, and attorney's fees.",
+    "context_below": "OrsignedforLandlordunderwrittenpropertymanagementagreementorpowerofattorney:",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_78"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_79",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      347.0400085449219,
+      273.3599853515625,
+      366.3599853515625,
+      284.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Date",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_79"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_80",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      51.2400016784668,
+      338.3999938964844,
+      366.8399963378906,
+      349.79998779296875
+    ],
+    "context_left": "By:",
+    "context_right": "",
+    "context_above": "OrsignedforLandlordunderwrittenpropertymanagementagreementorpowerofattorney:",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_80"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_81",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      95.76000213623047,
+      366.3599853515625,
+      366.3599853515625,
+      377.760009765625
+    ],
+    "context_left": "PrintedName:",
+    "context_right": "",
+    "context_above": "OrsignedforLandlordunderwrittenpropertymanagementagreementorpowerofattorney:",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_81"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_82",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      85.31999969482422,
+      383.3999938964844,
+      365.8800048828125,
+      394.79998779296875
+    ],
+    "context_left": "FirmName:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "MeansofDelivery",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_82"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_11",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 2,
+    "position": [
+      35.880001068115234,
+      437.8800048828125,
+      44.279998779296875,
+      448.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "RegularUSMail Hand delivered to",
+    "context_above": "",
+    "context_below": "by Other:",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_11"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_12",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 2,
+    "position": [
+      35.880001068115234,
+      449.8800048828125,
+      44.279998779296875,
+      460.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "RegularUSMail Hand by delivered to",
+    "context_above": "",
+    "context_below": "Other:",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_12"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_13",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 2,
+    "position": [
+      35.880001068115234,
+      473.8800048828125,
+      44.279998779296875,
+      484.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "by Other:",
+    "context_above": "Hand delivered to RegularUSMail",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_13"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_checkbox_14",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 2,
+    "position": [
+      123.5999984741211,
+      437.8800048828125,
+      132.1199951171875,
+      448.20001220703125
+    ],
+    "context_left": "RegularUSMail delivered Hand",
+    "context_right": "CertifiedMail,ReturnReceiptRequestedNo.",
+    "context_above": "",
+    "context_below": "to by Other:",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_checkbox_14"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_83",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      320.760009765625,
+      436.32000732421875,
+      576.3599853515625,
+      447.7200012207031
+    ],
+    "context_left": "CertifiedMail,ReturnReceiptRequestedNo.",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "on",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_83"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_84",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      132.1199951171875,
+      448.32000732421875,
+      457.79998779296875,
+      459.7200012207031
+    ],
+    "context_left": "to RegularUSMail delivered Hand by",
+    "context_right": "on",
+    "context_above": "CertifiedMail,ReturnReceiptRequestedNo. MeansofDelivery",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_84"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_85",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      475.79998779296875,
+      448.32000732421875,
+      576.3599853515625,
+      459.7200012207031
+    ],
+    "context_left": "on",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_85"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_86",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      70.80000305175781,
+      460.32000732421875,
+      576.3599853515625,
+      471.7200012207031
+    ],
+    "context_left": "by",
+    "context_right": "",
+    "context_above": "CertifiedMail,ReturnReceiptRequestedNo. MeansofDelivery",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_86"
+  },
+  {
+    "field_name": "itemization_of_security_deposit_textfield_87",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 2,
+    "position": [
+      85.80000305175781,
+      472.32000732421875,
+      576.3599853515625,
+      483.7200012207031
+    ],
+    "context_left": "Other: by",
+    "context_right": "",
+    "context_above": "MeansofDelivery",
+    "context_below": "",
+    "original_name": "itemization_of_security_deposit___524_ts47903_unlocked_textfield_87"
+  }
+]

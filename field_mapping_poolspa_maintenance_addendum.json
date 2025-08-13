@@ -1,0 +1,42 @@
+{
+  "field_mappings": {
+    "poolspa_maintenance_addendum_textfield_1": "poolspa_maintenance_addendum_textfield_1",
+    "poolspa_maintenance_addendum_textfield_2": "poolspa_maintenance_addendum_textfield_2",
+    "poolspa_maintenance_addendum_checkbox_1": "poolspa_maintenance_addendum_checkbox_1",
+    "poolspa_maintenance_addendum_checkbox_2": "poolspa_maintenance_addendum_checkbox_2",
+    "poolspa_maintenance_addendum_checkbox_3": "poolspa_maintenance_addendum_checkbox_3",
+    "poolspa_maintenance_addendum_checkbox_4": "poolspa_maintenance_addendum_checkbox_4",
+    "poolspa_maintenance_addendum_checkbox_5": "poolspa_maintenance_addendum_checkbox_5",
+    "poolspa_maintenance_addendum_checkbox_6": "poolspa_maintenance_addendum_checkbox_6",
+    "poolspa_maintenance_addendum_textfield_3": "poolspa_maintenance_addendum_textfield_3",
+    "poolspa_maintenance_addendum_textfield_4": "poolspa_maintenance_addendum_textfield_4",
+    "poolspa_maintenance_addendum_textfield_5": "poolspa_maintenance_addendum_textfield_5",
+    "poolspa_maintenance_addendum_textfield_6": "poolspa_maintenance_addendum_textfield_6",
+    "poolspa_maintenance_addendum_textfield_7": "poolspa_maintenance_addendum_textfield_7",
+    "poolspa_maintenance_addendum_textfield_8": "poolspa_maintenance_addendum_textfield_8",
+    "poolspa_maintenance_addendum_textfield_9": "poolspa_maintenance_addendum_textfield_9",
+    "poolspa_maintenance_addendum_textfield_10": "poolspa_maintenance_addendum_textfield_10",
+    "poolspa_maintenance_addendum_textfield_11": "poolspa_maintenance_addendum_textfield_11",
+    "poolspa_maintenance_addendum_textfield_12": "poolspa_maintenance_addendum_textfield_12",
+    "poolspa_maintenance_addendum_textfield_13": "poolspa_maintenance_addendum_textfield_13",
+    "poolspa_maintenance_addendum_textfield_14": "poolspa_maintenance_addendum_textfield_14",
+    "poolspa_maintenance_addendum_textfield_15": "poolspa_maintenance_addendum_textfield_15",
+    "poolspa_maintenance_addendum_textfield_16": "poolspa_maintenance_addendum_textfield_16",
+    "poolspa_maintenance_addendum_textfield_17": "poolspa_maintenance_addendum_textfield_17",
+    "poolspa_maintenance_addendum_textfield_18": "poolspa_maintenance_addendum_textfield_18",
+    "poolspa_maintenance_addendum_textfield_19": "poolspa_maintenance_addendum_textfield_19"
+  },
+  "metadata": {
+    "total_fields": 25,
+    "mapped_fields": 25,
+    "created_date": "2025-08-09",
+    "pdf_file": "poolspa_maintenance_addendum.pdf",
+    "form_name": "poolspa_maintenance_addendum",
+    "field_counts": {
+      "text": 19,
+      "checkbox": 6,
+      "radio": 0,
+      "button": 0
+    }
+  }
+}

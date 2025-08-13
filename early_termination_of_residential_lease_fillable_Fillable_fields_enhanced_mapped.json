@@ -1,0 +1,563 @@
+[
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      35.7599983215332,
+      142.55999755859375,
+      512.1599731445312,
+      155.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "CONCERING THE RESIDENTIAL LEASE ©TexasAssociationofREALTORS®,Inc.2022",
+    "context_below": "",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_1"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      62.63999938964844,
+      167.52001953125,
+      576.3599853515625,
+      180.719970703125
+    ],
+    "context_left": "AND",
+    "context_right": "",
+    "context_above": "THE RESIDENTIAL LEASE BETWEEN",
+    "context_below": "",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_2"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      35.7599983215332,
+      181.32000732421875,
+      512.1599731445312,
+      193.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "PROPERTY:",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_3"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      224.52000427246094,
+      205.55999755859375,
+      576.3599853515625,
+      218.760009765625
+    ],
+    "context_left": "PROPERTY: FOLLOWING",
+    "context_right": "",
+    "context_above": "",
+    "context_below": ", Landlord and Tenant",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_4"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_5",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      35.7599983215332,
+      219.3599853515625,
+      576.3599853515625,
+      231.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": ", the above-mentioned Property.",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_5"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_6",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      209.63999938964844,
+      243.5999755859375,
+      393.239990234375,
+      256.79998779296875
+    ],
+    "context_left": "Onorabout of (\"Lease\") PriorAgreement: Lease",
+    "context_right": "Landlord and Tenant",
+    "context_above": "",
+    "context_below": "the above-mentioned Property.",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_6"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_7",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      441.0,
+      370.55999755859375,
+      569.760009765625,
+      383.760009765625
+    ],
+    "context_left": "on p.m. 11:59 at",
+    "context_right": "",
+    "context_above": "this agreement has passed. Property, in Landlord's reasonable",
+    "context_below": "",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_7"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_8",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      63.36000061035156,
+      639.5999755859375,
+      234.72000122070312,
+      652.7999877929688
+    ],
+    "context_left": "$ F.",
+    "context_right": "of may an this early",
+    "context_above": "Tenant's forwarding address. description and itemized list of all",
+    "context_below": ". This fee limited to",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_8"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_9",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      53.7599983215332,
+      653.4000244140625,
+      182.39999389648438,
+      665.760009765625
+    ],
+    "context_left": "",
+    "context_right": "This fee fees,  as may",
+    "context_above": "$ F. Termination Fee: Upon execution Tenant's forwarding address.",
+    "context_below": "limited to leasing fees, advertising",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_9"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_10",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      282.239990234375,
+      713.52001953125,
+      307.9200134277344,
+      726.719970703125
+    ],
+    "context_left": "(TXR-2012)07-08-22  LandlordorLandlord'sRepresentative:",
+    "context_right": "&Tenants:",
+    "context_above": "damages for any portion of possible future advertising fees, utility",
+    "context_below": "Phone:    ProducedwithLoneWolfTransactions(zipFormEdition)717NHarwoodSt,Suite2200,Dallas,TX 75201   www.lwolf.com",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_10"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_11",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      314.760009765625,
+      713.52001953125,
+      340.32000732421875,
+      726.719970703125
+    ],
+    "context_left": ", (TXR-2012)07-08-22  LandlordorLandlord'sRepresentative:",
+    "context_right": ",",
+    "context_above": "for any portion of possible future lost fees, utility charges,",
+    "context_below": "Phone: 2144302895    ProducedwithLoneWolfTransactions(zipFormEdition)717NHarwoodSt,Suite2200,Dallas,TX 75201   www.lwolf.com",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_11"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_12",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      393.239990234375,
+      713.52001953125,
+      418.9200134277344,
+      726.719970703125
+    ],
+    "context_left": "&Tenants:",
+    "context_right": ",  ,",
+    "context_above": "of possible future lost rent. charges, and other fees reasonably",
+    "context_below": "Phone:   Fax: 2144302895    ProducedwithLoneWolfTransactions(zipFormEdition)717NHarwoodSt,Suite2200,Dallas,TX 75201   www.lwolf.com",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_12"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_13",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      425.760009765625,
+      713.52001953125,
+      451.32000732421875,
+      726.719970703125
+    ],
+    "context_left": ",    &Tenants:",
+    "context_right": ",    Page1of2",
+    "context_above": "possible future lost rent. and other fees reasonably necessary to",
+    "context_below": "Phone:   Fax: 2144302895",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_13"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_14",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      458.2799987792969,
+      713.52001953125,
+      483.8399963378906,
+      726.719970703125
+    ],
+    "context_left": ",  ,    &Tenants:",
+    "context_right": "Page1of2",
+    "context_above": "future lost rent. fees reasonably necessary to relet the",
+    "context_below": "Phone:   Fax: 2144302895 testw",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_14"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_15",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      490.79998779296875,
+      713.52001953125,
+      521.4000244140625,
+      726.719970703125
+    ],
+    "context_left": ",  ,  ,",
+    "context_right": "",
+    "context_above": "rent. reasonably necessary to relet the",
+    "context_below": "Fax: testw",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_15"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_16",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      251.75999450683594,
+      33.719970703125,
+      576.3599853515625,
+      57.719970703125
+    ],
+    "context_left": "EarlyTerminationofResidentialLeaseconcerning:",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_16"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_17",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      36.0,
+      445.79998779296875,
+      270.4800109863281,
+      469.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "release each other from all obligations Release: Except for the",
+    "context_below": "Landlord Landlord",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_17"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_18",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      274.67999267578125,
+      445.79998779296875,
+      297.239990234375,
+      469.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "all obligations under or related to the promises and representation",
+    "context_below": "Date Tenant     Date Tenant",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_18"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_19",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      313.20001220703125,
+      445.79998779296875,
+      545.52001953125,
+      469.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "to the Lease. in this document, Landlord and",
+    "context_below": "",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_19"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_20",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      549.719970703125,
+      445.79998779296875,
+      574.4400024414062,
+      469.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Landlord and Tenant(s)",
+    "context_below": "Date     Date",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_20"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_21",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      36.0,
+      481.79998779296875,
+      270.4800109863281,
+      505.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Landlord signed for Landlord under",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_21"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_22",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      274.67999267578125,
+      481.79998779296875,
+      297.239990234375,
+      505.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Date Tenant property management Tenant",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_22"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_23",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      313.20001220703125,
+      481.79998779296875,
+      545.52001953125,
+      505.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_23"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_24",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      549.719970703125,
+      481.79998779296875,
+      574.4400024414062,
+      505.79998779296875
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Date     Date",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_24"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_25",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      313.20001220703125,
+      517.7999877929688,
+      545.52001953125,
+      541.7999877929688
+    ],
+    "context_left": "management property",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_25"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_26",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      549.719970703125,
+      517.7999877929688,
+      574.4400024414062,
+      541.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Date",
+    "context_below": "Date     Date",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_26"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_27",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      53.040000915527344,
+      553.7999877929688,
+      297.8399963378906,
+      577.7999877929688
+    ],
+    "context_left": "By:",
+    "context_right": "",
+    "context_above": "agreementorpowerofattorney: for Landlord under written property management",
+    "context_below": "Broker'sAssociate'sPrintedName",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_27"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_28",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      313.20001220703125,
+      553.7999877929688,
+      545.52001953125,
+      577.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_28"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_29",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      549.719970703125,
+      553.7999877929688,
+      574.4400024414062,
+      577.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Date",
+    "context_below": "Date",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_29"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_30",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      35.7599983215332,
+      589.7999877929688,
+      297.239990234375,
+      613.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "agreementorpowerofattorney:",
+    "context_below": "Broker'sAssociate'sPrintedName Broker'sPrintedName    LicenseNo.",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_30"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_31",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      36.0,
+      625.7999877929688,
+      238.0800018310547,
+      649.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "",
+    "context_below": "Broker'sPrintedName FirmName",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_31"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_32",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      242.27999877929688,
+      625.7999877929688,
+      297.239990234375,
+      649.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Date Tenant",
+    "context_below": "LicenseNo.",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_32"
+  },
+  {
+    "field_name": "early_termination_of_residential_lease_fillable_fillable_textfield_33",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 1,
+    "position": [
+      35.7599983215332,
+      661.7999877929688,
+      297.239990234375,
+      685.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Broker'sAssociate'sPrintedName",
+    "context_below": "(TXR-2012)07-08-22",
+    "original_name": "early_termination_of_residential_lease_fillable_textfield_33"
+  }
+]

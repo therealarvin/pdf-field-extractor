@@ -1,0 +1,427 @@
+[
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_1",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      386.5199890136719,
+      124.55999755859375,
+      576.3599853515625,
+      141.719970703125
+    ],
+    "context_left": "ADDENDUMTORESIDENTIALLEASECONCERNINGTHEPROPERTYAT",
+    "context_right": "",
+    "context_above": "ADDENDUM",
+    "context_below": "necessary; (iii) properly operate the",
+    "original_name": "poolspa_maintenance_addendum_textfield_1"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_2",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      35.7599983215332,
+      142.32000732421875,
+      576.3599853515625,
+      153.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "ADDENDUMTORESIDENTIALLEASECONCERNINGTHEPROPERTYAT ©TexasAssociationofREALTORS®,Inc.,2003 USEOFTHISFORMBYPERSONSWHOARENOTMEMBERSOFTHETEXASASSOCIATIONOFREALTORS®,INC.ISNOTAUTHORIZED.",
+    "context_below": "MAINTENANCE:Tenantwill:(i)maintainproperwaterheightsinthepoolspaatalltimes;(ii)emptyandclean least once a week",
+    "original_name": "poolspa_maintenance_addendum_textfield_2"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_checkbox_1",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      35.880001068115234,
+      234.84002685546875,
+      45.119998931884766,
+      246.239990234375
+    ],
+    "context_left": "",
+    "context_right": "(1) Landlord, Landlord'scontractorsreasonableaccesstothepoolandspaandwillremove,atappropriatetimes,anypetinthe at",
+    "context_above": "water. Other equipment; and",
+    "context_below": "(2)",
+    "original_name": "poolspa_maintenance_addendum_checkbox_1"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_checkbox_2",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      35.880001068115234,
+      280.79998779296875,
+      45.119998931884766,
+      292.20001220703125
+    ],
+    "context_left": "",
+    "context_right": "(2) Tenant,atTenant'sexpense,isresponsiblefortheothermaintenance.",
+    "context_above": "(1) Landlord, at",
+    "context_below": "(3) Tenant will",
+    "original_name": "poolspa_maintenance_addendum_checkbox_2"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_checkbox_3",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      35.880001068115234,
+      302.760009765625,
+      45.119998931884766,
+      314.2799987792969
+    ],
+    "context_left": "",
+    "context_right": "(3) Tenant regularlyprovidessuchservice; will",
+    "context_above": "(2)",
+    "context_below": "(4)",
+    "original_name": "poolspa_maintenance_addendum_checkbox_3"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_checkbox_4",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      35.880001068115234,
+      336.7200012207031,
+      45.119998931884766,
+      348.239990234375
+    ],
+    "context_left": "",
+    "context_right": "(4)",
+    "context_above": "(3) Tenant will",
+    "context_below": "B. ENCLOSURE: C. USE:",
+    "original_name": "poolspa_maintenance_addendum_checkbox_4"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_checkbox_5",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      484.32000732421875,
+      302.760009765625,
+      493.67999267578125,
+      314.2799987792969
+    ],
+    "context_left": "with: contract maintenance",
+    "context_right": "contractor who",
+    "context_above": "",
+    "context_below": "",
+    "original_name": "poolspa_maintenance_addendum_checkbox_5"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_checkbox_6",
+    "field_type": "CheckBox",
+    "current_value": "Off",
+    "page": 0,
+    "position": [
+      214.67999267578125,
+      314.760009765625,
+      223.9199981689453,
+      326.2799987792969
+    ],
+    "context_left": "regularlyprovidessuchservice; effect in maintain",
+    "context_right": "scheduled",
+    "context_above": "a regularly Tenant,atTenant'sexpense,isresponsiblefortheothermaintenance.",
+    "context_below": "",
+    "original_name": "poolspa_maintenance_addendum_checkbox_6"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_3",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      226.32000732421875,
+      314.2799987792969,
+      576.3599853515625,
+      325.79998779296875
+    ],
+    "context_left": "a regularlyprovidessuchservice; effect in maintain",
+    "context_right": "",
+    "context_above": "pool/spa maintenance contract with:  a",
+    "context_below": "Tenantwillkeepallpoolenclosureandyardgatesingoodoperableconditionandclosedatalltimes.",
+    "original_name": "poolspa_maintenance_addendum_textfield_3"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_4",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      71.76000213623047,
+      330.6000061035156,
+      576.3599853515625,
+      347.760009765625
+    ],
+    "context_left": "(4)",
+    "context_right": "",
+    "context_above": "regularly scheduled pool/spa maintenance Tenant,atTenant'sexpense,isresponsiblefortheothermaintenance.",
+    "context_below": "Tenantwillkeepallpoolenclosureandyardgatesingoodoperableconditionandclosedatalltimes. Tenantmusttakereasonableactionto;(i)prohibitchildrenfromusingthepoolorspaaccessingthepoolorspa",
+    "original_name": "poolspa_maintenance_addendum_textfield_4"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_5",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      36.0,
+      538.5599975585938,
+      248.0399932861328,
+      555.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "effect, Landlord may, in addition to evidencing the required coverage.",
+    "context_below": "Landlord",
+    "original_name": "poolspa_maintenance_addendum_textfield_5"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_6",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      252.0,
+      538.5599975585938,
+      286.0799865722656,
+      555.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "LandlordwiththerequiredlevelofcoverageandTenantmustimmediatelyreimburseLandlordforsuchexpense. in addition to Landlord's remedies under the coverage. If",
+    "context_below": "Date Tenant",
+    "original_name": "poolspa_maintenance_addendum_textfield_6"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_7",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      324.0,
+      538.5599975585938,
+      536.0399780273438,
+      555.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "under the lease, purchase insurance that the required insurance at",
+    "context_below": "Tenant",
+    "original_name": "poolspa_maintenance_addendum_textfield_7"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_8",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      540.0,
+      538.5599975585938,
+      574.0800170898438,
+      555.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "insurance that will provide at all times the lease is",
+    "context_below": "Date",
+    "original_name": "poolspa_maintenance_addendum_textfield_8"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_9",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      36.0,
+      586.5599975585938,
+      248.0399932861328,
+      603.719970703125
+    ],
+    "context_left": "",
+    "context_right": "Tenant",
+    "context_above": "Landlord",
+    "context_below": "Landlord OrsignedforLandlordunderwrittenpropertymanagement",
+    "original_name": "poolspa_maintenance_addendum_textfield_9"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_10",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      252.0,
+      586.5599975585938,
+      286.0799865722656,
+      603.719970703125
+    ],
+    "context_left": "",
+    "context_right": "Tenant",
+    "context_above": "Date Tenant",
+    "context_below": "Date Tenant",
+    "original_name": "poolspa_maintenance_addendum_textfield_10"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_11",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      324.0,
+      578.6400146484375,
+      536.0399780273438,
+      595.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Tenant",
+    "context_below": "Tenant",
+    "original_name": "poolspa_maintenance_addendum_textfield_11"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_12",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      540.0,
+      578.6400146484375,
+      574.0800170898438,
+      595.7999877929688
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Date",
+    "context_below": "Date",
+    "original_name": "poolspa_maintenance_addendum_textfield_12"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_13",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      324.0,
+      618.5999755859375,
+      536.0399780273438,
+      635.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Tenant",
+    "context_below": "Tenant",
+    "original_name": "poolspa_maintenance_addendum_textfield_13"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_14",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      540.0,
+      618.5999755859375,
+      574.0800170898438,
+      635.760009765625
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Date",
+    "context_below": "Date",
+    "original_name": "poolspa_maintenance_addendum_textfield_14"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_15",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      324.0,
+      658.5599975585938,
+      536.0399780273438,
+      675.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Tenant",
+    "context_below": "Tenant",
+    "original_name": "poolspa_maintenance_addendum_textfield_15"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_16",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      540.0,
+      658.5599975585938,
+      574.0800170898438,
+      675.719970703125
+    ],
+    "context_left": "",
+    "context_right": "",
+    "context_above": "Date",
+    "context_below": "Date",
+    "original_name": "poolspa_maintenance_addendum_textfield_16"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_17",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      53.040000915527344,
+      670.5599975585938,
+      286.67999267578125,
+      687.719970703125
+    ],
+    "context_left": "By:",
+    "context_right": "Tenant",
+    "context_above": "agreementorpowerofattorney: OrsignedforLandlordunderwrittenpropertymanagement",
+    "context_below": "(TXR-2010)10-14-03",
+    "original_name": "poolspa_maintenance_addendum_textfield_17"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_18",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      102.4800033569336,
+      688.3200073242188,
+      286.20001220703125,
+      699.719970703125
+    ],
+    "context_left": "PrintedName: FirmName: By:",
+    "context_right": "Tenant",
+    "context_above": "agreementorpowerofattorney: OrsignedforLandlordunderwrittenpropertymanagement",
+    "context_below": "",
+    "original_name": "poolspa_maintenance_addendum_textfield_18"
+  },
+  {
+    "field_name": "poolspa_maintenance_addendum_textfield_19",
+    "field_type": "Text",
+    "current_value": "",
+    "page": 0,
+    "position": [
+      90.83999633789062,
+      700.3200073242188,
+      285.7200012207031,
+      711.719970703125
+    ],
+    "context_left": "FirmName:",
+    "context_right": "",
+    "context_above": "agreementorpowerofattorney:",
+    "context_below": "Sasidhar Kaligotla, 8992 Preston Rd #110-404 Frisco TX 75035",
+    "original_name": "poolspa_maintenance_addendum_textfield_19"
+  }
+]
